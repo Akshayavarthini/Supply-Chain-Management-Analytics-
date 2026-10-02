@@ -1,0 +1,1806 @@
+RETURN_ID,ORDER_ID,RETURN_REASON,REFUND_AMOUNT
+1,3274,Late Delivery,48209.58
+2,2507,Defective Product,17541.81
+3,9566,Wrong Item Delivered,58392.13
+4,18794,Poor Quality,257783.97
+5,7001,Customer Changed Mind,27565.19
+6,14298,Missing Accessories,282512.39
+7,21479,Missing Accessories,85571.5
+8,8252,Missing Accessories,89242.62
+9,11066,Customer Changed Mind,141862.66
+10,26550,Wrong Item Delivered,35202.79
+11,19882,Customer Changed Mind,72242.35
+12,20557,Customer Changed Mind,243758.06
+13,2713,Customer Changed Mind,222935.94
+14,3865,Wrong Item Delivered,369525.71
+15,9527,Defective Product,76442.54
+16,25573,Wrong Item Delivered,339225.67
+17,9215,Defective Product,187151.05
+18,16571,Damaged Product,117717.26
+19,12120,Customer Changed Mind,82296.91
+20,4539,Defective Product,84657.92
+21,1706,Customer Changed Mind,200573.79
+22,3986,Late Delivery,170410.11
+23,10347,Late Delivery,65101.99
+24,19957,Missing Accessories,192689.02
+25,11762,Customer Changed Mind,197662.12
+26,16811,Late Delivery,225090.21
+27,29537,Missing Accessories,255677.89
+28,23617,Defective Product,288056.84
+29,19395,Customer Changed Mind,237186.55
+30,29962,Defective Product,221541.23
+31,24539,Missing Accessories,212664.67
+32,7310,Defective Product,348687.32
+33,4415,Damaged Product,158735.53
+34,17736,Poor Quality,295011.22
+35,2475,Customer Changed Mind,13972.16
+36,27493,Missing Accessories,12969.04
+37,29663,Customer Changed Mind,123997.72
+38,19397,Missing Accessories,152331.65
+39,217,Missing Accessories,102843.86
+40,15506,Missing Accessories,159020.6
+41,16468,Wrong Item Delivered,361312.49
+42,5624,Poor Quality,175228.18
+43,2070,Defective Product,56492.29
+44,25079,Missing Accessories,114845.55
+45,18581,Damaged Product,243831.17
+46,3196,Poor Quality,71724.5
+47,743,Poor Quality,200402.54
+48,21459,Customer Changed Mind,173540.29
+49,12532,Damaged Product,519413.3
+50,3633,Damaged Product,42210.8
+51,11377,Customer Changed Mind,45909.45
+52,2825,Poor Quality,66912.31
+53,5571,Defective Product,41425.92
+54,1140,Customer Changed Mind,145317.43
+55,28617,Poor Quality,321320.52
+56,23012,Damaged Product,155111.82
+57,22100,Customer Changed Mind,61592.02
+58,19718,Late Delivery,30157.16
+59,19672,Defective Product,143227.14
+60,14370,Damaged Product,62644.38
+61,27421,Poor Quality,158789.2
+62,19896,Missing Accessories,157907.01
+63,22581,Late Delivery,35452.93
+64,11272,Defective Product,218705.37
+65,26085,Poor Quality,292896.55
+66,341,Wrong Item Delivered,92249.91
+67,14652,Damaged Product,234472.77
+68,7021,Wrong Item Delivered,264529.95
+69,22899,Damaged Product,162658.13
+70,10161,Late Delivery,295950.4
+71,9182,Missing Accessories,231607.43
+72,18003,Missing Accessories,84420.33
+73,4030,Late Delivery,37902.9
+74,432,Damaged Product,309960.91
+75,11576,Missing Accessories,92201.1
+76,22360,Poor Quality,44490.81
+77,26048,Defective Product,198057.82
+78,10040,Damaged Product,137125.62
+79,213,Defective Product,141434.74
+80,6243,Customer Changed Mind,123734.61
+81,21935,Poor Quality,188707.67
+82,6842,Defective Product,148204.8
+83,27688,Late Delivery,56585.52
+84,17701,Missing Accessories,403355.76
+85,25055,Damaged Product,64292.47
+86,7876,Damaged Product,203078.36
+87,27903,Damaged Product,69787.72
+88,1263,Missing Accessories,186816.37
+89,10678,Defective Product,86444.67
+90,26094,Poor Quality,71944.16
+91,11843,Poor Quality,79809.14
+92,23471,Missing Accessories,38226.47
+93,28041,Poor Quality,99007.64
+94,25576,Poor Quality,379428.01
+95,27842,Damaged Product,47022.14
+96,7617,Missing Accessories,389411.77
+97,26452,Missing Accessories,181327.33
+98,11241,Damaged Product,80986.19
+99,14011,Defective Product,179625.17
+100,23679,Damaged Product,14650.03
+101,1677,Damaged Product,84172.39
+102,22826,Damaged Product,29125.07
+103,24361,Damaged Product,32036.18
+104,9716,Poor Quality,132960.04
+105,6209,Poor Quality,177093.03
+106,13525,Poor Quality,189416.52
+107,20426,Customer Changed Mind,42623.09
+108,25261,Late Delivery,257557.66
+109,3762,Late Delivery,50446.32
+110,20735,Missing Accessories,341782.34
+111,24095,Missing Accessories,96531.44
+112,6056,Defective Product,33939.56
+113,28739,Customer Changed Mind,35595.35
+114,1643,Defective Product,110299.25
+115,27754,Poor Quality,181290.54
+116,10588,Defective Product,364450.53
+117,18243,Damaged Product,515472.01
+118,17722,Customer Changed Mind,61952.49
+119,25750,Missing Accessories,78460.44
+120,2098,Late Delivery,298424.59
+121,6449,Late Delivery,292769.42
+122,20492,Poor Quality,187661.28
+123,5685,Damaged Product,216306.73
+124,20908,Damaged Product,237629.04
+125,12620,Wrong Item Delivered,124901.25
+126,23285,Defective Product,56651.72
+127,27255,Damaged Product,234381.23
+128,8452,Late Delivery,31205.0
+129,27359,Wrong Item Delivered,127810.01
+130,20972,Customer Changed Mind,311885.73
+131,12741,Wrong Item Delivered,89594.45
+132,24911,Wrong Item Delivered,19306.47
+133,8123,Defective Product,20370.82
+134,5616,Defective Product,150465.51
+135,18375,Missing Accessories,1259.79
+136,25741,Wrong Item Delivered,312175.11
+137,9154,Late Delivery,196947.15
+138,21895,Wrong Item Delivered,184798.26
+139,21879,Poor Quality,247277.06
+140,12990,Wrong Item Delivered,201475.12
+141,2805,Customer Changed Mind,39039.34
+142,24456,Poor Quality,69649.47
+143,24311,Customer Changed Mind,65780.73
+144,21414,Customer Changed Mind,81877.29
+145,20991,Missing Accessories,39277.13
+146,12826,Missing Accessories,29771.72
+147,10851,Damaged Product,386152.8
+148,26838,Late Delivery,375870.63
+149,28961,Poor Quality,158495.4
+150,26537,Customer Changed Mind,315464.09
+151,12975,Defective Product,174479.92
+152,7426,Damaged Product,93494.51
+153,8976,Poor Quality,31236.09
+154,2502,Damaged Product,86793.27
+155,18701,Wrong Item Delivered,45550.33
+156,23713,Defective Product,59204.25
+157,12775,Customer Changed Mind,115683.75
+158,8382,Missing Accessories,128570.01
+159,4447,Defective Product,32401.31
+160,17177,Late Delivery,6882.63
+161,43,Damaged Product,137311.5
+162,25806,Customer Changed Mind,73904.19
+163,18308,Defective Product,142782.17
+164,17191,Late Delivery,43065.38
+165,27974,Defective Product,258238.35
+166,14163,Missing Accessories,451658.67
+167,2379,Poor Quality,164151.49
+168,26035,Damaged Product,190839.42
+169,670,Poor Quality,55777.87
+170,20389,Missing Accessories,145743.4
+171,5495,Poor Quality,382405.67
+172,1961,Poor Quality,134548.57
+173,21616,Damaged Product,258338.51
+174,13734,Poor Quality,87291.42
+175,15378,Missing Accessories,477740.54
+176,7733,Wrong Item Delivered,115747.14
+177,8008,Poor Quality,124412.71
+178,13192,Defective Product,145420.2
+179,7123,Damaged Product,18458.52
+180,9980,Missing Accessories,157363.74
+181,20897,Missing Accessories,221872.14
+182,25001,Poor Quality,289686.22
+183,8233,Missing Accessories,42228.24
+184,26534,Late Delivery,174312.71
+185,22978,Wrong Item Delivered,170091.16
+186,6767,Late Delivery,136028.18
+187,22514,Damaged Product,90503.53
+188,19231,Late Delivery,210381.15
+189,6115,Missing Accessories,163513.74
+190,9891,Defective Product,59329.35
+191,29881,Defective Product,121578.64
+192,470,Missing Accessories,211477.17
+193,3722,Poor Quality,164095.5
+194,9273,Customer Changed Mind,235833.62
+195,25899,Poor Quality,17187.45
+196,857,Wrong Item Delivered,83079.28
+197,26060,Damaged Product,232231.09
+198,21442,Customer Changed Mind,87798.54
+199,17627,Poor Quality,244838.98
+200,10847,Poor Quality,323593.8
+201,19908,Poor Quality,164672.5
+202,3832,Poor Quality,5517.4
+203,29372,Late Delivery,41081.9
+204,13625,Missing Accessories,75094.94
+205,12783,Poor Quality,200004.01
+206,27965,Defective Product,288006.9
+207,5945,Late Delivery,129963.34
+208,15996,Customer Changed Mind,193793.27
+209,11787,Damaged Product,71998.05
+210,11650,Defective Product,328251.95
+211,3987,Defective Product,373871.36
+212,1936,Poor Quality,96625.47
+213,27861,Late Delivery,237148.53
+214,1809,Late Delivery,47724.49
+215,29343,Defective Product,36650.95
+216,19525,Damaged Product,202197.98
+217,23325,Missing Accessories,165743.46
+218,28096,Missing Accessories,69814.86
+219,18023,Late Delivery,283046.05
+220,23644,Late Delivery,68622.48
+221,6167,Missing Accessories,96970.52
+222,28134,Damaged Product,172702.58
+223,15068,Customer Changed Mind,67510.63
+224,14718,Damaged Product,96045.09
+225,6181,Wrong Item Delivered,363898.7
+226,1089,Customer Changed Mind,86756.25
+227,2406,Damaged Product,159486.24
+228,27664,Missing Accessories,301022.17
+229,2746,Damaged Product,30756.66
+230,16985,Poor Quality,147052.46
+231,9225,Damaged Product,104158.92
+232,29669,Missing Accessories,220184.09
+233,2693,Missing Accessories,323291.46
+234,10388,Missing Accessories,383463.89
+235,6984,Poor Quality,144578.96
+236,26201,Wrong Item Delivered,137347.07
+237,24624,Defective Product,54051.48
+238,6681,Customer Changed Mind,51059.35
+239,25064,Wrong Item Delivered,133060.67
+240,6349,Late Delivery,227622.25
+241,5770,Damaged Product,33617.09
+242,1646,Customer Changed Mind,46446.83
+243,9186,Damaged Product,95389.5
+244,13083,Late Delivery,243351.15
+245,19031,Wrong Item Delivered,60199.99
+246,10879,Customer Changed Mind,270148.22
+247,24223,Late Delivery,79098.37
+248,13626,Missing Accessories,138526.49
+249,18305,Wrong Item Delivered,48921.72
+250,5216,Customer Changed Mind,173246.65
+251,24728,Late Delivery,98170.53
+252,24405,Poor Quality,326737.56
+253,330,Defective Product,296596.96
+254,5086,Damaged Product,8525.9
+255,2516,Late Delivery,387589.32
+256,25794,Wrong Item Delivered,126611.24
+257,29102,Late Delivery,134232.58
+258,11329,Late Delivery,232154.38
+259,8288,Late Delivery,75976.3
+260,24688,Late Delivery,247632.82
+261,13469,Defective Product,17259.47
+262,28474,Wrong Item Delivered,133284.05
+263,24043,Late Delivery,332774.31
+264,1296,Defective Product,24605.62
+265,16531,Late Delivery,60524.83
+266,1797,Customer Changed Mind,47603.0
+267,28676,Defective Product,52332.18
+268,28056,Missing Accessories,180875.74
+269,23111,Customer Changed Mind,102744.75
+270,7030,Defective Product,172985.05
+271,20370,Late Delivery,462733.22
+272,15433,Poor Quality,130724.69
+273,21001,Poor Quality,94173.0
+274,19309,Damaged Product,130277.85
+275,5221,Poor Quality,22879.56
+276,19062,Missing Accessories,104246.49
+277,15609,Damaged Product,371985.61
+278,2470,Customer Changed Mind,66003.79
+279,7096,Defective Product,271545.22
+280,7518,Damaged Product,339420.52
+281,20747,Damaged Product,228382.34
+282,19705,Damaged Product,86684.15
+283,24416,Defective Product,381497.09
+284,7368,Missing Accessories,427235.44
+285,9467,Wrong Item Delivered,135534.17
+286,29050,Damaged Product,135902.37
+287,4173,Late Delivery,141190.11
+288,23345,Wrong Item Delivered,34021.25
+289,20938,Late Delivery,215748.54
+290,9482,Wrong Item Delivered,44040.58
+291,437,Poor Quality,50865.38
+292,2053,Defective Product,73217.41
+293,9652,Missing Accessories,81702.1
+294,5908,Defective Product,125896.63
+295,20714,Customer Changed Mind,371996.88
+296,20739,Missing Accessories,330311.0
+297,8740,Poor Quality,374326.98
+298,3845,Missing Accessories,27432.92
+299,14060,Poor Quality,38985.82
+300,16975,Defective Product,256042.0
+301,24331,Damaged Product,33916.74
+302,5995,Late Delivery,48261.3
+303,29163,Customer Changed Mind,328799.77
+304,25191,Damaged Product,20384.64
+305,3228,Customer Changed Mind,205402.88
+306,792,Poor Quality,265170.44
+307,16839,Defective Product,185618.76
+308,22582,Damaged Product,182932.35
+309,24265,Late Delivery,228214.29
+310,9332,Missing Accessories,82684.86
+311,11406,Missing Accessories,17200.4
+312,15740,Poor Quality,228612.63
+313,4238,Damaged Product,49873.61
+314,20923,Customer Changed Mind,240118.52
+315,15204,Poor Quality,155882.9
+316,29864,Missing Accessories,33086.98
+317,4036,Late Delivery,80187.49
+318,19122,Poor Quality,79175.43
+319,9991,Late Delivery,29134.92
+320,26382,Poor Quality,15369.34
+321,4022,Missing Accessories,20013.49
+322,28128,Poor Quality,189907.86
+323,1856,Damaged Product,197209.26
+324,28711,Defective Product,19089.18
+325,15230,Late Delivery,9666.41
+326,6963,Missing Accessories,125189.9
+327,16172,Defective Product,83896.75
+328,969,Late Delivery,64915.06
+329,21087,Customer Changed Mind,371614.41
+330,4363,Poor Quality,253403.22
+331,26344,Wrong Item Delivered,159138.53
+332,12461,Missing Accessories,229133.74
+333,3260,Wrong Item Delivered,359593.94
+334,22339,Customer Changed Mind,35870.71
+335,19685,Late Delivery,192832.39
+336,6157,Defective Product,27867.23
+337,13163,Late Delivery,149011.65
+338,14283,Wrong Item Delivered,228687.6
+339,7933,Customer Changed Mind,28146.35
+340,29414,Late Delivery,44459.32
+341,9985,Customer Changed Mind,237994.05
+342,14809,Missing Accessories,146349.45
+343,25562,Wrong Item Delivered,76154.01
+344,11472,Missing Accessories,73670.37
+345,4934,Missing Accessories,132149.17
+346,18999,Customer Changed Mind,170049.5
+347,22331,Late Delivery,211236.39
+348,482,Customer Changed Mind,73708.37
+349,20532,Defective Product,179845.52
+350,1881,Damaged Product,80375.47
+351,26983,Defective Product,198811.45
+352,9689,Poor Quality,249287.31
+353,7012,Late Delivery,117192.25
+354,19415,Poor Quality,37485.24
+355,17849,Wrong Item Delivered,51131.78
+356,24186,Damaged Product,22251.15
+357,10666,Defective Product,120850.81
+358,1591,Missing Accessories,47220.16
+359,19040,Late Delivery,234036.27
+360,23297,Poor Quality,139107.62
+361,1748,Poor Quality,74242.11
+362,23680,Missing Accessories,17061.98
+363,15912,Missing Accessories,222632.28
+364,636,Late Delivery,118126.26
+365,26917,Defective Product,45678.37
+366,19213,Customer Changed Mind,45900.4
+367,9149,Poor Quality,34825.14
+368,10725,Late Delivery,98678.71
+369,22904,Missing Accessories,63773.78
+370,2477,Late Delivery,12480.62
+371,319,Damaged Product,71468.9
+372,14065,Defective Product,146571.38
+373,11830,Defective Product,76445.68
+374,15570,Defective Product,78372.63
+375,4044,Poor Quality,144210.31
+376,12565,Missing Accessories,216800.95
+377,28637,Defective Product,377635.24
+378,17080,Wrong Item Delivered,112258.6
+379,20648,Damaged Product,278233.59
+380,8631,Damaged Product,10875.59
+381,11200,Customer Changed Mind,221296.85
+382,15928,Defective Product,83861.24
+383,15849,Poor Quality,168338.63
+384,17836,Late Delivery,150087.94
+385,20786,Damaged Product,74132.56
+386,13539,Damaged Product,81023.18
+387,15175,Damaged Product,154442.88
+388,16282,Damaged Product,29120.08
+389,10107,Wrong Item Delivered,40487.75
+390,16509,Missing Accessories,51431.37
+391,11098,Wrong Item Delivered,66510.43
+392,23420,Poor Quality,108131.56
+393,17963,Poor Quality,353352.95
+394,7119,Missing Accessories,98545.01
+395,8557,Wrong Item Delivered,152167.15
+396,10496,Customer Changed Mind,112513.45
+397,7795,Customer Changed Mind,108807.17
+398,27760,Missing Accessories,270343.4
+399,20980,Customer Changed Mind,165841.51
+400,6315,Customer Changed Mind,139851.01
+401,5740,Missing Accessories,97972.66
+402,8220,Customer Changed Mind,166970.81
+403,7913,Poor Quality,133589.62
+404,6094,Customer Changed Mind,197409.52
+405,6965,Customer Changed Mind,26337.95
+406,23140,Damaged Product,37104.98
+407,10530,Missing Accessories,389994.08
+408,1615,Late Delivery,180667.99
+409,11630,Damaged Product,336467.66
+410,12611,Late Delivery,20793.01
+411,29099,Poor Quality,120825.34
+412,13604,Late Delivery,334881.93
+413,11878,Late Delivery,135699.43
+414,26175,Defective Product,91644.59
+415,5525,Missing Accessories,75600.14
+416,8453,Defective Product,175228.3
+417,12848,Poor Quality,66744.42
+418,23873,Late Delivery,117560.47
+419,11198,Damaged Product,225373.7
+420,28303,Customer Changed Mind,276526.13
+421,6401,Defective Product,123905.62
+422,23883,Customer Changed Mind,4202.8
+423,29720,Wrong Item Delivered,97184.87
+424,9331,Customer Changed Mind,82765.62
+425,26814,Customer Changed Mind,217173.57
+426,15360,Damaged Product,101448.7
+427,14413,Customer Changed Mind,38661.26
+428,1568,Defective Product,409927.46
+429,6369,Damaged Product,339857.54
+430,27287,Wrong Item Delivered,80130.56
+431,7315,Late Delivery,104851.6
+432,10652,Defective Product,133525.12
+433,14950,Defective Product,46634.1
+434,285,Late Delivery,69924.8
+435,27596,Customer Changed Mind,96444.48
+436,512,Late Delivery,14906.51
+437,8700,Customer Changed Mind,46124.03
+438,16125,Missing Accessories,54754.17
+439,29600,Wrong Item Delivered,100198.24
+440,8445,Damaged Product,65908.98
+441,10175,Damaged Product,80659.02
+442,9847,Customer Changed Mind,295354.74
+443,8818,Late Delivery,140953.87
+444,26604,Wrong Item Delivered,110719.05
+445,8597,Damaged Product,16443.53
+446,23669,Defective Product,92342.72
+447,16530,Late Delivery,43010.08
+448,27402,Customer Changed Mind,19274.13
+449,1554,Wrong Item Delivered,247370.45
+450,23258,Poor Quality,59760.15
+451,3371,Damaged Product,16052.92
+452,22009,Customer Changed Mind,212354.07
+453,17054,Missing Accessories,147573.52
+454,3595,Late Delivery,36548.68
+455,81,Damaged Product,155076.29
+456,8138,Missing Accessories,212448.5
+457,19829,Customer Changed Mind,147512.12
+458,25640,Damaged Product,22061.36
+459,29681,Wrong Item Delivered,67872.39
+460,2247,Poor Quality,40810.61
+461,26366,Missing Accessories,45844.78
+462,17373,Defective Product,101780.6
+463,5145,Wrong Item Delivered,6925.99
+464,29244,Missing Accessories,428846.09
+465,24309,Wrong Item Delivered,83821.61
+466,29428,Poor Quality,291327.92
+467,3855,Damaged Product,16612.84
+468,10141,Defective Product,52113.16
+469,1816,Late Delivery,86611.04
+470,16011,Poor Quality,210775.13
+471,882,Missing Accessories,35939.89
+472,16330,Wrong Item Delivered,142058.34
+473,28994,Poor Quality,374508.73
+474,26240,Customer Changed Mind,205966.97
+475,10560,Damaged Product,347130.2
+476,24195,Wrong Item Delivered,199085.95
+477,10670,Wrong Item Delivered,38528.77
+478,12029,Poor Quality,27650.28
+479,10739,Defective Product,157873.77
+480,12252,Late Delivery,364596.12
+481,29035,Defective Product,144081.82
+482,15621,Customer Changed Mind,56632.01
+483,669,Missing Accessories,103583.22
+484,1633,Poor Quality,41556.54
+485,3145,Missing Accessories,328897.17
+486,3948,Wrong Item Delivered,58582.42
+487,25546,Late Delivery,175339.74
+488,29571,Customer Changed Mind,61400.37
+489,8510,Damaged Product,384728.65
+490,9659,Wrong Item Delivered,166563.4
+491,8660,Poor Quality,230812.77
+492,15186,Poor Quality,34888.95
+493,1536,Customer Changed Mind,410555.37
+494,23299,Missing Accessories,157688.78
+495,9116,Customer Changed Mind,57550.99
+496,15946,Defective Product,102753.06
+497,2490,Damaged Product,11017.98
+498,591,Wrong Item Delivered,254275.65
+499,7935,Poor Quality,189309.84
+500,5157,Missing Accessories,387987.33
+501,21543,Defective Product,251240.73
+502,15481,Late Delivery,96623.87
+503,9924,Late Delivery,368420.89
+504,1578,Defective Product,252997.3
+505,21332,Late Delivery,129033.07
+506,17724,Missing Accessories,349948.09
+507,18923,Damaged Product,27528.08
+508,24866,Poor Quality,248298.59
+509,27967,Missing Accessories,69646.74
+510,17783,Poor Quality,111103.81
+511,10080,Late Delivery,142998.9
+512,13853,Defective Product,103241.16
+513,26316,Missing Accessories,166588.33
+514,25017,Late Delivery,143308.56
+515,7846,Customer Changed Mind,209323.4
+516,6817,Poor Quality,223856.54
+517,19204,Wrong Item Delivered,143621.95
+518,15368,Poor Quality,120572.32
+519,26030,Late Delivery,10464.29
+520,6516,Damaged Product,196918.9
+521,23880,Wrong Item Delivered,12987.5
+522,1705,Damaged Product,161855.96
+523,7404,Missing Accessories,61560.46
+524,19460,Customer Changed Mind,69633.79
+525,16987,Customer Changed Mind,195520.83
+526,5705,Customer Changed Mind,146849.48
+527,15629,Wrong Item Delivered,209628.69
+528,1843,Customer Changed Mind,91658.58
+529,1718,Wrong Item Delivered,318034.95
+530,8693,Poor Quality,14339.35
+531,23236,Defective Product,295227.13
+532,1848,Late Delivery,244837.73
+533,16528,Defective Product,358777.87
+534,3906,Late Delivery,89209.91
+535,28930,Damaged Product,203424.16
+536,9495,Late Delivery,97876.54
+537,14331,Missing Accessories,293563.24
+538,24637,Wrong Item Delivered,284363.85
+539,4625,Customer Changed Mind,259398.84
+540,28593,Missing Accessories,462576.39
+541,10661,Customer Changed Mind,23155.18
+542,16745,Damaged Product,195499.72
+543,23399,Defective Product,263138.07
+544,17647,Late Delivery,56955.42
+545,7227,Wrong Item Delivered,86755.58
+546,2758,Damaged Product,140466.55
+547,24778,Poor Quality,6641.1
+548,22051,Late Delivery,101324.52
+549,10018,Customer Changed Mind,14579.32
+550,26479,Wrong Item Delivered,98727.91
+551,23026,Defective Product,201338.88
+552,17649,Customer Changed Mind,100456.41
+553,8117,Damaged Product,182344.69
+554,16149,Wrong Item Delivered,259120.17
+555,13458,Damaged Product,220636.25
+556,1107,Poor Quality,10941.83
+557,20204,Poor Quality,224153.54
+558,590,Customer Changed Mind,124556.77
+559,5389,Poor Quality,84725.05
+560,8729,Missing Accessories,104653.86
+561,626,Poor Quality,31477.92
+562,14835,Defective Product,111281.98
+563,8622,Poor Quality,48878.66
+564,1149,Wrong Item Delivered,256280.37
+565,8461,Defective Product,21012.79
+566,7862,Defective Product,256901.86
+567,25497,Defective Product,213704.78
+568,19824,Poor Quality,45593.49
+569,16338,Missing Accessories,49309.85
+570,4135,Customer Changed Mind,186333.77
+571,10491,Wrong Item Delivered,212965.99
+572,4506,Defective Product,356077.1
+573,15619,Customer Changed Mind,120443.57
+574,26643,Wrong Item Delivered,55775.7
+575,13338,Missing Accessories,74268.31
+576,18610,Wrong Item Delivered,31604.47
+577,2817,Defective Product,173721.69
+578,5105,Defective Product,13272.38
+579,13776,Late Delivery,332629.28
+580,18638,Late Delivery,312844.5
+581,21853,Late Delivery,51346.86
+582,28321,Poor Quality,147015.22
+583,10100,Wrong Item Delivered,302134.61
+584,578,Defective Product,114972.64
+585,491,Poor Quality,74437.2
+586,12036,Wrong Item Delivered,158127.09
+587,9561,Poor Quality,90680.7
+588,7265,Defective Product,155346.28
+589,2124,Customer Changed Mind,112585.12
+590,14572,Missing Accessories,259243.16
+591,4075,Customer Changed Mind,26881.38
+592,798,Damaged Product,76976.84
+593,2293,Poor Quality,169511.03
+594,1871,Defective Product,303892.26
+595,16324,Customer Changed Mind,282665.08
+596,19532,Defective Product,259087.61
+597,13685,Customer Changed Mind,136653.96
+598,7242,Missing Accessories,105011.78
+599,22076,Damaged Product,362844.22
+600,29861,Customer Changed Mind,155958.32
+601,10301,Poor Quality,168577.64
+602,5048,Customer Changed Mind,384484.21
+603,23920,Late Delivery,100068.98
+604,18813,Damaged Product,328158.24
+605,8666,Wrong Item Delivered,25458.28
+606,12671,Poor Quality,59088.03
+607,9082,Customer Changed Mind,310583.24
+608,21667,Poor Quality,35145.67
+609,23187,Poor Quality,276111.06
+610,7168,Defective Product,19173.32
+611,13430,Damaged Product,85447.03
+612,13677,Damaged Product,124481.23
+613,10991,Missing Accessories,48636.65
+614,5731,Poor Quality,78233.31
+615,22991,Damaged Product,99947.81
+616,19475,Poor Quality,383210.02
+617,18569,Damaged Product,414514.85
+618,2063,Customer Changed Mind,92295.67
+619,14237,Defective Product,225991.41
+620,8482,Poor Quality,354462.26
+621,29501,Poor Quality,260940.95
+622,24421,Late Delivery,256207.82
+623,15796,Wrong Item Delivered,317148.98
+624,546,Damaged Product,46850.29
+625,3404,Late Delivery,239647.39
+626,26970,Defective Product,258155.27
+627,16593,Customer Changed Mind,150101.37
+628,5788,Customer Changed Mind,188864.67
+629,18797,Defective Product,293500.26
+630,8320,Missing Accessories,38831.93
+631,12374,Defective Product,39040.44
+632,5025,Poor Quality,149473.18
+633,9502,Missing Accessories,181565.79
+634,29249,Damaged Product,153269.19
+635,2721,Wrong Item Delivered,347332.5
+636,21441,Missing Accessories,82360.94
+637,24387,Poor Quality,91489.66
+638,26856,Poor Quality,40719.26
+639,13429,Poor Quality,98197.08
+640,18815,Late Delivery,10881.09
+641,25947,Late Delivery,9101.02
+642,23058,Damaged Product,139006.56
+643,25819,Damaged Product,19686.23
+644,9799,Defective Product,285806.56
+645,16360,Wrong Item Delivered,35311.61
+646,7741,Wrong Item Delivered,15500.45
+647,9033,Poor Quality,159704.07
+648,14139,Defective Product,250737.97
+649,16844,Damaged Product,84739.03
+650,18435,Late Delivery,290681.36
+651,13358,Defective Product,424571.87
+652,3556,Defective Product,87824.45
+653,17789,Customer Changed Mind,51280.72
+654,9150,Missing Accessories,166194.7
+655,1689,Missing Accessories,26977.54
+656,13371,Defective Product,165294.48
+657,5448,Defective Product,47619.76
+658,657,Late Delivery,194107.98
+659,17792,Customer Changed Mind,407253.09
+660,14490,Customer Changed Mind,25365.79
+661,13484,Damaged Product,57191.67
+662,13728,Customer Changed Mind,276916.0
+663,24611,Damaged Product,23088.39
+664,3511,Missing Accessories,95177.17
+665,24799,Defective Product,79632.48
+666,18593,Poor Quality,143507.3
+667,23383,Wrong Item Delivered,260792.18
+668,21164,Wrong Item Delivered,196585.46
+669,5027,Customer Changed Mind,73542.18
+670,16597,Poor Quality,193661.87
+671,1729,Customer Changed Mind,397764.46
+672,3565,Damaged Product,127362.67
+673,663,Late Delivery,62467.98
+674,13818,Defective Product,74527.61
+675,3312,Customer Changed Mind,115995.08
+676,10874,Damaged Product,7799.92
+677,27956,Defective Product,140597.66
+678,17601,Poor Quality,290168.82
+679,7384,Wrong Item Delivered,83010.37
+680,16842,Poor Quality,285239.27
+681,2194,Late Delivery,49818.06
+682,27022,Wrong Item Delivered,39669.78
+683,11884,Defective Product,120611.56
+684,585,Damaged Product,308807.16
+685,21221,Missing Accessories,81064.98
+686,13436,Poor Quality,103439.16
+687,14903,Defective Product,59018.11
+688,3201,Missing Accessories,222841.67
+689,20853,Late Delivery,297503.84
+690,6419,Damaged Product,155203.57
+691,7174,Late Delivery,260278.02
+692,4907,Missing Accessories,194334.32
+693,9758,Late Delivery,248323.26
+694,14478,Defective Product,25082.17
+695,29069,Defective Product,80079.64
+696,2135,Wrong Item Delivered,120128.33
+697,26408,Wrong Item Delivered,126904.32
+698,21503,Customer Changed Mind,83183.04
+699,25075,Wrong Item Delivered,54664.41
+700,5356,Defective Product,47279.47
+701,7491,Poor Quality,76249.53
+702,13537,Damaged Product,139743.33
+703,18282,Damaged Product,34645.21
+704,14678,Missing Accessories,61692.98
+705,12463,Missing Accessories,177090.87
+706,2016,Defective Product,46992.61
+707,27083,Late Delivery,84431.65
+708,4049,Customer Changed Mind,262197.97
+709,9228,Wrong Item Delivered,25085.87
+710,18329,Customer Changed Mind,128920.41
+711,8163,Wrong Item Delivered,176429.2
+712,27000,Defective Product,33657.45
+713,12724,Poor Quality,94189.64
+714,14419,Late Delivery,92678.22
+715,15895,Wrong Item Delivered,151954.2
+716,7573,Customer Changed Mind,108873.41
+717,8142,Customer Changed Mind,383141.23
+718,17357,Wrong Item Delivered,153938.64
+719,13865,Damaged Product,85505.46
+720,10654,Customer Changed Mind,309044.41
+721,10486,Damaged Product,328279.94
+722,3656,Customer Changed Mind,329883.7
+723,228,Missing Accessories,16968.81
+724,24259,Damaged Product,169350.46
+725,9678,Damaged Product,294546.32
+726,14537,Wrong Item Delivered,339210.77
+727,22221,Wrong Item Delivered,266108.86
+728,21940,Late Delivery,54187.67
+729,25290,Damaged Product,35756.03
+730,16246,Poor Quality,182025.67
+731,7715,Late Delivery,29694.16
+732,24254,Damaged Product,63894.84
+733,16660,Wrong Item Delivered,156383.42
+734,26422,Wrong Item Delivered,209005.61
+735,7838,Poor Quality,178527.18
+736,17161,Defective Product,344977.79
+737,11552,Late Delivery,244714.45
+738,18221,Defective Product,123382.58
+739,18682,Late Delivery,51125.42
+740,10724,Missing Accessories,41884.81
+741,25303,Damaged Product,422138.38
+742,22415,Poor Quality,68824.75
+743,19233,Customer Changed Mind,326626.68
+744,21409,Missing Accessories,15471.37
+745,26153,Defective Product,187411.48
+746,23386,Customer Changed Mind,126260.67
+747,28883,Late Delivery,127736.08
+748,16803,Poor Quality,76719.81
+749,8692,Damaged Product,443393.37
+750,14343,Defective Product,104734.0
+751,10106,Defective Product,31270.09
+752,26990,Damaged Product,280906.98
+753,21148,Customer Changed Mind,46907.05
+754,26386,Defective Product,329236.07
+755,3009,Defective Product,191932.02
+756,28803,Damaged Product,25900.73
+757,1906,Missing Accessories,185317.95
+758,11404,Defective Product,257606.83
+759,22205,Damaged Product,87984.37
+760,2242,Poor Quality,262770.87
+761,7276,Customer Changed Mind,333150.88
+762,25820,Damaged Product,126273.07
+763,27194,Wrong Item Delivered,95914.48
+764,16608,Customer Changed Mind,159321.41
+765,28863,Late Delivery,208822.66
+766,25039,Poor Quality,198386.41
+767,4264,Missing Accessories,220106.8
+768,24972,Damaged Product,72369.61
+769,4620,Defective Product,183302.87
+770,1821,Defective Product,459182.53
+771,8316,Customer Changed Mind,81180.0
+772,28136,Missing Accessories,107933.59
+773,6303,Wrong Item Delivered,104538.18
+774,17157,Damaged Product,4578.02
+775,4296,Customer Changed Mind,88380.64
+776,25635,Customer Changed Mind,194397.73
+777,9026,Damaged Product,104679.37
+778,18223,Wrong Item Delivered,58192.76
+779,10625,Late Delivery,67290.53
+780,13755,Defective Product,67259.53
+781,13896,Damaged Product,25816.9
+782,8616,Missing Accessories,44787.35
+783,17919,Wrong Item Delivered,381994.98
+784,16082,Damaged Product,372678.62
+785,29008,Missing Accessories,71337.51
+786,29218,Damaged Product,151856.12
+787,26556,Poor Quality,43499.75
+788,24994,Poor Quality,44267.14
+789,22879,Damaged Product,101639.74
+790,11566,Late Delivery,98540.43
+791,9356,Wrong Item Delivered,22235.28
+792,26751,Damaged Product,86888.4
+793,16521,Late Delivery,20003.07
+794,1498,Customer Changed Mind,490239.78
+795,3949,Missing Accessories,144801.7
+796,7714,Late Delivery,46292.16
+797,22011,Missing Accessories,25124.06
+798,5879,Damaged Product,160629.38
+799,26502,Late Delivery,412257.72
+800,15042,Poor Quality,182327.13
+801,23418,Wrong Item Delivered,171181.32
+802,12673,Defective Product,77967.03
+803,5370,Wrong Item Delivered,31011.04
+804,12792,Late Delivery,289352.62
+805,7162,Poor Quality,287016.84
+806,28621,Wrong Item Delivered,315160.13
+807,28022,Late Delivery,84774.08
+808,29623,Damaged Product,146759.53
+809,10581,Customer Changed Mind,39357.14
+810,25886,Damaged Product,43251.92
+811,20410,Wrong Item Delivered,238032.55
+812,8735,Defective Product,127966.89
+813,13862,Damaged Product,291195.62
+814,4638,Wrong Item Delivered,60024.73
+815,9456,Damaged Product,331680.71
+816,2627,Defective Product,50668.7
+817,23615,Poor Quality,117748.84
+818,7495,Customer Changed Mind,125922.66
+819,21066,Customer Changed Mind,147909.94
+820,3276,Wrong Item Delivered,168637.08
+821,19149,Defective Product,462263.2
+822,4425,Customer Changed Mind,273199.26
+823,6615,Missing Accessories,231990.44
+824,28305,Damaged Product,163749.36
+825,22670,Damaged Product,23757.93
+826,21544,Poor Quality,172075.74
+827,28078,Customer Changed Mind,110117.09
+828,22556,Damaged Product,85116.43
+829,14687,Late Delivery,12933.43
+830,6695,Wrong Item Delivered,205165.52
+831,20774,Poor Quality,109503.79
+832,9911,Customer Changed Mind,62138.51
+833,9819,Poor Quality,176312.7
+834,16919,Poor Quality,99999.5
+835,1320,Wrong Item Delivered,385423.37
+836,10163,Wrong Item Delivered,128139.29
+837,28207,Wrong Item Delivered,180831.24
+838,1342,Poor Quality,121286.53
+839,13342,Customer Changed Mind,33889.39
+840,10870,Defective Product,51633.49
+841,6998,Customer Changed Mind,129505.96
+842,26370,Poor Quality,19855.63
+843,547,Customer Changed Mind,61098.86
+844,20229,Poor Quality,73538.89
+845,20812,Late Delivery,155621.74
+846,24989,Missing Accessories,63499.2
+847,23922,Defective Product,512678.94
+848,29828,Wrong Item Delivered,26109.73
+849,9671,Poor Quality,311618.95
+850,21987,Poor Quality,129737.45
+851,25984,Poor Quality,264168.37
+852,14976,Late Delivery,366744.77
+853,29921,Poor Quality,233111.21
+854,2094,Damaged Product,27229.48
+855,28684,Wrong Item Delivered,174696.14
+856,61,Missing Accessories,373727.92
+857,22793,Wrong Item Delivered,197564.5
+858,4398,Damaged Product,57497.43
+859,1234,Poor Quality,25736.28
+860,4805,Damaged Product,85142.84
+861,25257,Defective Product,28912.04
+862,26423,Customer Changed Mind,211007.0
+863,20831,Damaged Product,15465.48
+864,26219,Customer Changed Mind,32090.33
+865,3110,Defective Product,230167.4
+866,24077,Poor Quality,200052.45
+867,22018,Missing Accessories,29156.24
+868,6860,Late Delivery,37365.61
+869,21682,Customer Changed Mind,408702.57
+870,25054,Late Delivery,112866.87
+871,10114,Defective Product,66332.74
+872,9528,Late Delivery,100963.75
+873,2462,Missing Accessories,53204.61
+874,9319,Poor Quality,39935.32
+875,5789,Damaged Product,33361.51
+876,306,Late Delivery,255219.31
+877,20064,Missing Accessories,49442.8
+878,22034,Customer Changed Mind,90546.67
+879,13618,Missing Accessories,348272.6
+880,9845,Wrong Item Delivered,283293.99
+881,10182,Customer Changed Mind,222057.03
+882,7896,Missing Accessories,94787.34
+883,27185,Wrong Item Delivered,91365.76
+884,5085,Customer Changed Mind,388621.74
+885,23043,Missing Accessories,76940.73
+886,8864,Damaged Product,40635.93
+887,9735,Missing Accessories,128638.27
+888,3834,Damaged Product,245037.79
+889,28200,Wrong Item Delivered,388327.74
+890,9039,Missing Accessories,31448.41
+891,29955,Customer Changed Mind,36026.93
+892,18937,Late Delivery,70419.65
+893,8186,Damaged Product,37991.5
+894,20770,Poor Quality,97686.76
+895,29491,Late Delivery,257187.45
+896,18156,Damaged Product,429646.64
+897,20793,Defective Product,100374.97
+898,8237,Wrong Item Delivered,93324.88
+899,20480,Poor Quality,7777.33
+900,19687,Late Delivery,58378.24
+901,25597,Defective Product,58792.04
+902,14761,Damaged Product,324929.26
+903,21677,Poor Quality,19428.62
+904,11255,Late Delivery,394861.98
+905,19831,Customer Changed Mind,69418.49
+906,1323,Customer Changed Mind,93330.55
+907,15997,Missing Accessories,116468.58
+908,13135,Defective Product,17015.28
+909,7186,Defective Product,136993.94
+910,12206,Missing Accessories,339038.69
+911,14449,Poor Quality,351459.7
+912,25765,Missing Accessories,180916.31
+913,16107,Missing Accessories,208212.27
+914,26363,Wrong Item Delivered,122819.7
+915,3273,Defective Product,189899.92
+916,23776,Late Delivery,194065.62
+917,6820,Defective Product,88221.31
+918,28458,Customer Changed Mind,68083.57
+919,13443,Wrong Item Delivered,302808.99
+920,15575,Customer Changed Mind,204697.7
+921,8971,Defective Product,362077.6
+922,8836,Missing Accessories,140481.26
+923,6132,Poor Quality,218709.41
+924,9550,Missing Accessories,490934.98
+925,15383,Defective Product,322360.52
+926,26391,Defective Product,327132.23
+927,25610,Damaged Product,347369.63
+928,7117,Missing Accessories,219498.09
+929,1996,Wrong Item Delivered,68632.29
+930,20661,Customer Changed Mind,38799.16
+931,24523,Missing Accessories,49796.74
+932,11172,Damaged Product,79029.05
+933,13680,Late Delivery,73815.67
+934,27545,Missing Accessories,112604.02
+935,22742,Damaged Product,154689.32
+936,10090,Poor Quality,74898.77
+937,5328,Defective Product,128650.98
+938,4184,Poor Quality,384057.0
+939,14724,Wrong Item Delivered,56609.92
+940,17505,Defective Product,371351.81
+941,10339,Late Delivery,233163.97
+942,29116,Poor Quality,127627.26
+943,3964,Defective Product,42984.69
+944,14429,Late Delivery,506954.24
+945,5127,Customer Changed Mind,94201.84
+946,618,Customer Changed Mind,25960.65
+947,7089,Defective Product,67466.51
+948,26287,Poor Quality,38134.11
+949,9807,Late Delivery,64113.02
+950,25195,Wrong Item Delivered,120713.14
+951,28076,Missing Accessories,239692.68
+952,10750,Poor Quality,54922.53
+953,415,Defective Product,470729.04
+954,28393,Wrong Item Delivered,13391.12
+955,23834,Missing Accessories,132253.54
+956,8792,Damaged Product,129821.91
+957,10756,Customer Changed Mind,220727.82
+958,3925,Customer Changed Mind,217019.41
+959,28997,Damaged Product,292205.1
+960,29366,Damaged Product,118471.41
+961,8560,Wrong Item Delivered,151956.59
+962,14715,Poor Quality,89376.11
+963,21658,Defective Product,125414.99
+964,16873,Customer Changed Mind,32440.35
+965,2134,Late Delivery,89462.81
+966,29917,Defective Product,239123.51
+967,1866,Damaged Product,197331.06
+968,6124,Wrong Item Delivered,113400.23
+969,26520,Damaged Product,141819.4
+970,24840,Poor Quality,73444.22
+971,26343,Defective Product,14414.96
+972,25824,Damaged Product,184127.27
+973,11536,Late Delivery,497266.45
+974,3536,Defective Product,191899.44
+975,2033,Wrong Item Delivered,305774.35
+976,14099,Poor Quality,66450.15
+977,28705,Customer Changed Mind,277020.19
+978,18809,Damaged Product,115914.71
+979,17867,Wrong Item Delivered,11476.69
+980,11717,Wrong Item Delivered,11796.1
+981,27649,Missing Accessories,147046.19
+982,14018,Wrong Item Delivered,265556.23
+983,27919,Wrong Item Delivered,43247.49
+984,11361,Customer Changed Mind,42731.98
+985,2635,Wrong Item Delivered,92130.62
+986,4459,Missing Accessories,67788.83
+987,24290,Late Delivery,17536.57
+988,9642,Missing Accessories,59880.0
+989,21429,Wrong Item Delivered,90962.82
+990,7450,Damaged Product,40523.25
+991,8060,Late Delivery,97773.79
+992,5348,Defective Product,39249.22
+993,23524,Late Delivery,103076.51
+994,25787,Missing Accessories,438354.06
+995,19423,Poor Quality,170105.29
+996,23326,Poor Quality,89978.94
+997,4555,Damaged Product,95572.68
+998,3046,Wrong Item Delivered,176944.56
+999,14337,Defective Product,37164.27
+1000,24676,Customer Changed Mind,238835.96
+1001,238,Wrong Item Delivered,38119.76
+1002,10055,Defective Product,138084.26
+1003,3690,Customer Changed Mind,23071.89
+1004,23791,Customer Changed Mind,61275.94
+1005,28709,Wrong Item Delivered,66987.5
+1006,7360,Defective Product,72230.36
+1007,6680,Missing Accessories,123252.01
+1008,4042,Wrong Item Delivered,12453.42
+1009,27474,Late Delivery,33608.09
+1010,28061,Defective Product,191133.47
+1011,23227,Late Delivery,267397.95
+1012,15142,Poor Quality,89801.54
+1013,18152,Poor Quality,240360.83
+1014,16961,Damaged Product,57395.31
+1015,15852,Damaged Product,203426.71
+1016,20076,Defective Product,152698.48
+1017,22761,Poor Quality,176244.1
+1018,25672,Missing Accessories,85525.41
+1019,2646,Missing Accessories,210185.38
+1020,6514,Wrong Item Delivered,228344.46
+1021,9159,Customer Changed Mind,109532.12
+1022,4216,Defective Product,343243.81
+1023,6222,Missing Accessories,133075.53
+1024,11466,Late Delivery,29029.44
+1025,18258,Defective Product,17910.85
+1026,15339,Defective Product,223613.67
+1027,24655,Wrong Item Delivered,265381.06
+1028,11683,Customer Changed Mind,116400.7
+1029,7004,Wrong Item Delivered,286133.9
+1030,13824,Late Delivery,395111.57
+1031,15279,Damaged Product,174849.77
+1032,19258,Defective Product,34530.0
+1033,13584,Late Delivery,157962.88
+1034,15966,Defective Product,140933.48
+1035,21253,Late Delivery,191118.04
+1036,14124,Poor Quality,85773.85
+1037,1426,Wrong Item Delivered,385297.81
+1038,1384,Wrong Item Delivered,132961.4
+1039,11448,Customer Changed Mind,78957.56
+1040,28870,Missing Accessories,286725.87
+1041,18347,Poor Quality,137337.63
+1042,4829,Missing Accessories,88145.06
+1043,3894,Missing Accessories,53143.98
+1044,25019,Missing Accessories,85212.07
+1045,3549,Wrong Item Delivered,161833.41
+1046,6227,Missing Accessories,43067.8
+1047,15691,Defective Product,339093.96
+1048,2937,Late Delivery,93582.82
+1049,21270,Customer Changed Mind,42173.31
+1050,26151,Damaged Product,56771.32
+1051,10048,Defective Product,23608.46
+1052,8480,Missing Accessories,541661.36
+1053,697,Customer Changed Mind,122194.15
+1054,4536,Customer Changed Mind,326557.25
+1055,14689,Poor Quality,41222.12
+1056,22652,Missing Accessories,78403.14
+1057,24477,Defective Product,172472.42
+1058,8706,Wrong Item Delivered,92840.9
+1059,17611,Customer Changed Mind,179348.82
+1060,21266,Damaged Product,112646.61
+1061,10158,Damaged Product,128503.12
+1062,27683,Poor Quality,45819.26
+1063,26207,Defective Product,88308.37
+1064,7822,Wrong Item Delivered,184440.0
+1065,23461,Defective Product,79450.98
+1066,28146,Wrong Item Delivered,97730.64
+1067,2351,Defective Product,49604.05
+1068,25862,Damaged Product,49437.5
+1069,5630,Poor Quality,25900.48
+1070,21188,Late Delivery,243484.39
+1071,11934,Late Delivery,134970.86
+1072,1389,Defective Product,249361.99
+1073,29420,Late Delivery,23206.49
+1074,13262,Late Delivery,363335.55
+1075,23484,Missing Accessories,294281.67
+1076,10525,Customer Changed Mind,159575.33
+1077,10142,Missing Accessories,242421.69
+1078,13239,Defective Product,95445.48
+1079,15170,Missing Accessories,101566.42
+1080,22162,Missing Accessories,214233.7
+1081,6746,Late Delivery,288827.59
+1082,1109,Defective Product,61400.99
+1083,15998,Poor Quality,303339.25
+1084,26143,Late Delivery,223380.17
+1085,5000,Late Delivery,112710.46
+1086,19492,Late Delivery,84538.86
+1087,28356,Defective Product,248167.73
+1088,7142,Defective Product,217672.96
+1089,23846,Wrong Item Delivered,187532.57
+1090,28182,Damaged Product,267391.76
+1091,16091,Wrong Item Delivered,201770.36
+1092,15760,Late Delivery,118154.03
+1093,8506,Defective Product,8980.72
+1094,29274,Defective Product,57192.23
+1095,6025,Wrong Item Delivered,189423.38
+1096,26334,Customer Changed Mind,65692.96
+1097,29402,Defective Product,21723.86
+1098,15670,Customer Changed Mind,26128.2
+1099,29930,Damaged Product,136227.07
+1100,19723,Late Delivery,124997.53
+1101,19175,Missing Accessories,63955.62
+1102,8847,Late Delivery,88286.12
+1103,891,Missing Accessories,66999.32
+1104,5569,Missing Accessories,113529.01
+1105,26348,Late Delivery,186652.88
+1106,29410,Wrong Item Delivered,77964.91
+1107,13069,Missing Accessories,201829.47
+1108,17847,Damaged Product,38853.83
+1109,24352,Missing Accessories,67474.09
+1110,26558,Customer Changed Mind,212667.73
+1111,27153,Damaged Product,150700.67
+1112,139,Poor Quality,442009.43
+1113,12436,Poor Quality,183744.41
+1114,21753,Wrong Item Delivered,328108.14
+1115,17677,Wrong Item Delivered,117762.0
+1116,17429,Late Delivery,368387.28
+1117,14548,Wrong Item Delivered,367922.61
+1118,958,Poor Quality,307205.81
+1119,7514,Defective Product,139808.04
+1120,27159,Poor Quality,168821.2
+1121,23616,Defective Product,248024.27
+1122,15571,Damaged Product,438477.16
+1123,7081,Poor Quality,66542.96
+1124,18787,Late Delivery,49507.46
+1125,1385,Missing Accessories,118158.82
+1126,26241,Late Delivery,481004.0
+1127,2271,Late Delivery,184223.11
+1128,14676,Missing Accessories,108904.54
+1129,912,Wrong Item Delivered,31978.37
+1130,8379,Customer Changed Mind,91219.07
+1131,8052,Late Delivery,23391.44
+1132,4313,Damaged Product,348029.89
+1133,5777,Poor Quality,132533.7
+1134,12538,Poor Quality,148983.01
+1135,96,Missing Accessories,10888.27
+1136,3781,Missing Accessories,140486.52
+1137,14406,Poor Quality,386864.12
+1138,27762,Customer Changed Mind,164323.68
+1139,11585,Wrong Item Delivered,144553.66
+1140,23493,Customer Changed Mind,117074.8
+1141,27949,Damaged Product,157896.99
+1142,20293,Damaged Product,360846.12
+1143,9011,Poor Quality,65206.35
+1144,27941,Missing Accessories,315446.72
+1145,1119,Poor Quality,42920.8
+1146,5803,Poor Quality,219086.31
+1147,22692,Damaged Product,88114.7
+1148,9105,Customer Changed Mind,73438.33
+1149,22175,Damaged Product,158703.73
+1150,11357,Wrong Item Delivered,69978.84
+1151,6573,Customer Changed Mind,364246.88
+1152,12366,Late Delivery,78190.16
+1153,7094,Damaged Product,113389.0
+1154,3932,Late Delivery,219014.8
+1155,21883,Damaged Product,91916.81
+1156,26358,Defective Product,31087.83
+1157,19436,Poor Quality,21731.41
+1158,26195,Missing Accessories,139840.07
+1159,14667,Wrong Item Delivered,307953.56
+1160,15925,Damaged Product,129269.18
+1161,15237,Customer Changed Mind,41996.54
+1162,21191,Missing Accessories,57012.61
+1163,20604,Missing Accessories,39548.42
+1164,1006,Poor Quality,239871.21
+1165,24528,Damaged Product,20911.61
+1166,4518,Missing Accessories,76539.09
+1167,12676,Poor Quality,79883.18
+1168,27048,Wrong Item Delivered,90160.71
+1169,2760,Late Delivery,441028.37
+1170,7441,Wrong Item Delivered,155643.04
+1171,19274,Defective Product,261805.64
+1172,29371,Defective Product,283442.74
+1173,20903,Customer Changed Mind,44677.21
+1174,20519,Poor Quality,36700.42
+1175,17550,Damaged Product,162435.78
+1176,21058,Late Delivery,47679.11
+1177,28693,Late Delivery,358531.22
+1178,10228,Defective Product,53890.04
+1179,3901,Late Delivery,10543.71
+1180,27336,Missing Accessories,23748.58
+1181,20116,Damaged Product,254099.16
+1182,2426,Customer Changed Mind,90643.43
+1183,27462,Defective Product,56398.85
+1184,11344,Late Delivery,13852.29
+1185,26487,Damaged Product,77877.34
+1186,11131,Poor Quality,42882.79
+1187,16831,Wrong Item Delivered,86140.12
+1188,15351,Late Delivery,212577.33
+1189,25939,Poor Quality,109949.87
+1190,25510,Damaged Product,158555.2
+1191,23757,Late Delivery,103257.7
+1192,5237,Late Delivery,95303.15
+1193,28765,Poor Quality,57396.54
+1194,10844,Wrong Item Delivered,424692.32
+1195,13675,Poor Quality,217254.73
+1196,4994,Customer Changed Mind,166626.14
+1197,5228,Poor Quality,38961.29
+1198,5445,Missing Accessories,46347.61
+1199,16481,Late Delivery,36412.65
+1200,10730,Customer Changed Mind,389228.89
+1201,15470,Late Delivery,56568.4
+1202,28406,Defective Product,144349.21
+1203,180,Customer Changed Mind,381855.49
+1204,17015,Poor Quality,8428.08
+1205,17861,Customer Changed Mind,238591.13
+1206,7239,Defective Product,209399.89
+1207,2737,Late Delivery,315308.12
+1208,3610,Defective Product,135463.25
+1209,12159,Damaged Product,65819.78
+1210,24979,Late Delivery,509669.56
+1211,24942,Damaged Product,109993.74
+1212,369,Missing Accessories,80245.24
+1213,2444,Defective Product,31500.35
+1214,4063,Late Delivery,66672.43
+1215,19013,Damaged Product,231213.67
+1216,23006,Wrong Item Delivered,154208.79
+1217,29512,Late Delivery,292548.49
+1218,11461,Defective Product,19486.88
+1219,6196,Wrong Item Delivered,51198.92
+1220,15308,Late Delivery,30661.93
+1221,12458,Wrong Item Delivered,425938.86
+1222,7511,Customer Changed Mind,10342.91
+1223,3263,Poor Quality,119125.54
+1224,1559,Customer Changed Mind,337184.44
+1225,23674,Missing Accessories,86835.1
+1226,18004,Missing Accessories,279425.19
+1227,15603,Wrong Item Delivered,142836.46
+1228,2404,Missing Accessories,113264.71
+1229,12092,Late Delivery,161286.4
+1230,14274,Late Delivery,108171.71
+1231,4770,Missing Accessories,291021.75
+1232,16818,Missing Accessories,69804.4
+1233,27079,Missing Accessories,180133.99
+1234,23931,Customer Changed Mind,118543.67
+1235,5202,Late Delivery,396438.88
+1236,8367,Damaged Product,270560.44
+1237,13332,Wrong Item Delivered,167286.33
+1238,1457,Poor Quality,97876.79
+1239,20514,Defective Product,243842.04
+1240,26053,Defective Product,50515.49
+1241,1600,Customer Changed Mind,79036.46
+1242,27034,Damaged Product,34871.35
+1243,18668,Poor Quality,2628.57
+1244,2472,Damaged Product,159186.82
+1245,29758,Damaged Product,41773.76
+1246,13268,Missing Accessories,39808.08
+1247,29394,Missing Accessories,52302.12
+1248,7,Missing Accessories,49505.69
+1249,14002,Wrong Item Delivered,288882.32
+1250,14092,Damaged Product,79415.98
+1251,16529,Late Delivery,214465.78
+1252,3454,Poor Quality,185687.97
+1253,22046,Late Delivery,104854.32
+1254,8617,Wrong Item Delivered,27001.49
+1255,6490,Damaged Product,334888.07
+1256,1273,Customer Changed Mind,318401.36
+1257,29041,Customer Changed Mind,246296.35
+1258,10005,Missing Accessories,435133.78
+1259,25953,Poor Quality,143912.83
+1260,24380,Poor Quality,155891.0
+1261,28638,Customer Changed Mind,138459.02
+1262,10077,Wrong Item Delivered,43553.87
+1263,496,Poor Quality,46554.44
+1264,10017,Damaged Product,267455.78
+1265,19117,Wrong Item Delivered,259570.45
+1266,25242,Damaged Product,87040.54
+1267,1999,Wrong Item Delivered,29279.81
+1268,28009,Customer Changed Mind,295710.74
+1269,15581,Wrong Item Delivered,86214.06
+1270,19811,Poor Quality,333647.14
+1271,7463,Customer Changed Mind,247876.47
+1272,24247,Late Delivery,90991.71
+1273,2458,Damaged Product,192578.95
+1274,18796,Defective Product,71270.69
+1275,21614,Customer Changed Mind,320148.07
+1276,18330,Defective Product,101819.55
+1277,23760,Missing Accessories,98854.0
+1278,23490,Damaged Product,254942.75
+1279,22986,Customer Changed Mind,171718.08
+1280,11233,Poor Quality,40188.99
+1281,25266,Customer Changed Mind,71135.21
+1282,9514,Defective Product,109812.72
+1283,1664,Customer Changed Mind,411666.15
+1284,14181,Late Delivery,303671.07
+1285,17480,Damaged Product,42085.38
+1286,5814,Poor Quality,83636.59
+1287,22031,Damaged Product,159037.03
+1288,26133,Poor Quality,40210.97
+1289,20580,Poor Quality,101067.79
+1290,7510,Late Delivery,90003.7
+1291,140,Missing Accessories,89035.41
+1292,5861,Poor Quality,276855.85
+1293,23438,Defective Product,27409.15
+1294,6650,Customer Changed Mind,46768.27
+1295,24761,Missing Accessories,185732.68
+1296,6908,Customer Changed Mind,287024.51
+1297,9299,Poor Quality,139845.78
+1298,5912,Poor Quality,158579.85
+1299,15817,Defective Product,132985.88
+1300,4258,Late Delivery,153695.82
+1301,24735,Missing Accessories,96517.11
+1302,24927,Late Delivery,133160.33
+1303,1083,Late Delivery,25212.2
+1304,1925,Damaged Product,313912.9
+1305,8904,Missing Accessories,64781.18
+1306,5371,Missing Accessories,276636.59
+1307,5904,Defective Product,96089.09
+1308,13542,Late Delivery,350576.76
+1309,29318,Customer Changed Mind,140465.63
+1310,12867,Late Delivery,136335.9
+1311,11756,Missing Accessories,334581.38
+1312,13081,Missing Accessories,203828.8
+1313,26706,Wrong Item Delivered,172328.56
+1314,16110,Wrong Item Delivered,241087.98
+1315,22657,Wrong Item Delivered,181187.17
+1316,21426,Missing Accessories,216547.52
+1317,28874,Late Delivery,30718.57
+1318,16388,Missing Accessories,39951.67
+1319,21162,Poor Quality,162800.1
+1320,16122,Poor Quality,289912.07
+1321,13084,Defective Product,153572.64
+1322,25139,Poor Quality,184939.81
+1323,5501,Wrong Item Delivered,85067.4
+1324,6321,Damaged Product,181639.52
+1325,3307,Poor Quality,388494.23
+1326,4980,Poor Quality,79367.97
+1327,15936,Defective Product,181545.3
+1328,12265,Damaged Product,239762.01
+1329,17306,Customer Changed Mind,24740.34
+1330,17798,Missing Accessories,129381.34
+1331,26125,Customer Changed Mind,195219.43
+1332,15435,Missing Accessories,66873.46
+1333,10717,Customer Changed Mind,84786.17
+1334,22149,Late Delivery,81786.06
+1335,29784,Damaged Product,251827.3
+1336,16843,Poor Quality,95192.35
+1337,7835,Defective Product,284829.11
+1338,9893,Damaged Product,291722.98
+1339,28464,Poor Quality,149071.43
+1340,2672,Missing Accessories,33281.75
+1341,9048,Defective Product,102705.62
+1342,15110,Customer Changed Mind,168875.21
+1343,10454,Damaged Product,69434.0
+1344,627,Damaged Product,41785.23
+1345,22003,Damaged Product,66654.75
+1346,189,Customer Changed Mind,32160.91
+1347,3848,Defective Product,88140.7
+1348,11637,Late Delivery,290579.02
+1349,25196,Defective Product,45327.44
+1350,20095,Wrong Item Delivered,132746.71
+1351,23924,Late Delivery,115059.61
+1352,11732,Poor Quality,507038.7
+1353,16124,Customer Changed Mind,300307.34
+1354,16889,Poor Quality,24786.18
+1355,14869,Defective Product,198359.34
+1356,1693,Damaged Product,75675.63
+1357,17821,Late Delivery,117270.54
+1358,23244,Late Delivery,13356.82
+1359,26138,Missing Accessories,97485.78
+1360,4924,Missing Accessories,46876.07
+1361,10092,Late Delivery,56741.57
+1362,18521,Missing Accessories,28953.66
+1363,27037,Missing Accessories,190021.21
+1364,9547,Late Delivery,44610.46
+1365,12187,Defective Product,164523.75
+1366,2546,Defective Product,205366.2
+1367,25917,Late Delivery,107240.32
+1368,120,Late Delivery,82549.88
+1369,22953,Missing Accessories,189819.74
+1370,4559,Wrong Item Delivered,107964.92
+1371,22173,Customer Changed Mind,13644.24
+1372,8647,Late Delivery,235454.43
+1373,46,Defective Product,112862.1
+1374,28227,Customer Changed Mind,160975.97
+1375,14938,Late Delivery,117295.41
+1376,15722,Damaged Product,126016.39
+1377,26023,Missing Accessories,316796.96
+1378,15447,Poor Quality,337164.99
+1379,4034,Defective Product,30950.87
+1380,16053,Defective Product,52924.26
+1381,28388,Defective Product,78999.87
+1382,29920,Poor Quality,76349.97
+1383,3215,Defective Product,261160.92
+1384,25605,Wrong Item Delivered,8334.6
+1385,21804,Missing Accessories,130605.57
+1386,26398,Late Delivery,179161.9
+1387,29299,Poor Quality,331018.38
+1388,16130,Late Delivery,171475.37
+1389,29207,Defective Product,264209.81
+1390,25232,Poor Quality,264455.27
+1391,25531,Poor Quality,10549.67
+1392,11064,Customer Changed Mind,210212.72
+1393,4702,Poor Quality,11914.96
+1394,9381,Poor Quality,83090.7
+1395,3152,Customer Changed Mind,67180.68
+1396,21991,Customer Changed Mind,188702.03
+1397,24847,Damaged Product,84618.45
+1398,22588,Late Delivery,265598.24
+1399,6694,Wrong Item Delivered,41387.04
+1400,28612,Poor Quality,42711.56
+1401,23832,Damaged Product,146434.05
+1402,19898,Customer Changed Mind,181966.61
+1403,21141,Wrong Item Delivered,121165.37
+1404,4401,Customer Changed Mind,230076.74
+1405,21131,Poor Quality,115273.25
+1406,13472,Late Delivery,45141.1
+1407,21450,Wrong Item Delivered,19359.33
+1408,11809,Customer Changed Mind,328426.13
+1409,24281,Wrong Item Delivered,94711.07
+1410,17273,Late Delivery,452102.66
+1411,8516,Customer Changed Mind,111542.17
+1412,17176,Late Delivery,61665.38
+1413,18071,Damaged Product,43798.18
+1414,4354,Customer Changed Mind,82918.21
+1415,23456,Missing Accessories,289372.87
+1416,21201,Late Delivery,61735.39
+1417,26232,Late Delivery,193915.41
+1418,9160,Damaged Product,176691.7
+1419,11735,Defective Product,412156.16
+1420,27240,Missing Accessories,36346.35
+1421,24019,Late Delivery,37410.06
+1422,15783,Damaged Product,6242.24
+1423,17599,Damaged Product,81399.53
+1424,14157,Customer Changed Mind,420774.28
+1425,19845,Late Delivery,103911.65
+1426,7095,Defective Product,83206.01
+1427,13779,Damaged Product,382019.87
+1428,21939,Defective Product,218922.53
+1429,8800,Defective Product,269571.66
+1430,11222,Missing Accessories,189750.18
+1431,4059,Damaged Product,210354.4
+1432,26312,Poor Quality,515425.0
+1433,4813,Customer Changed Mind,90434.34
+1434,26061,Damaged Product,50410.81
+1435,7621,Customer Changed Mind,156153.18
+1436,27689,Damaged Product,105204.4
+1437,4479,Damaged Product,105415.53
+1438,7467,Wrong Item Delivered,102854.9
+1439,19758,Missing Accessories,276439.99
+1440,27961,Damaged Product,169544.3
+1441,4876,Missing Accessories,184469.92
+1442,13661,Wrong Item Delivered,49062.62
+1443,725,Customer Changed Mind,22464.41
+1444,21184,Defective Product,25498.97
+1445,29396,Poor Quality,339225.07
+1446,5116,Damaged Product,13634.95
+1447,25571,Missing Accessories,121520.64
+1448,10360,Damaged Product,140681.71
+1449,13916,Late Delivery,125478.71
+1450,23516,Customer Changed Mind,28217.88
+1451,2373,Late Delivery,101318.69
+1452,26392,Missing Accessories,72405.06
+1453,13362,Poor Quality,91690.25
+1454,7069,Defective Product,257161.14
+1455,26329,Damaged Product,295182.98
+1456,1259,Damaged Product,52389.69
+1457,24154,Wrong Item Delivered,225695.18
+1458,26440,Missing Accessories,91029.16
+1459,18175,Customer Changed Mind,301799.97
+1460,12035,Poor Quality,43571.15
+1461,2229,Wrong Item Delivered,172175.98
+1462,5,Poor Quality,132073.32
+1463,1613,Late Delivery,27941.98
+1464,2987,Missing Accessories,73122.22
+1465,16403,Missing Accessories,277705.91
+1466,24463,Wrong Item Delivered,179664.24
+1467,2796,Missing Accessories,81876.34
+1468,20934,Defective Product,205936.48
+1469,11186,Wrong Item Delivered,53440.6
+1470,23016,Missing Accessories,239469.74
+1471,25996,Poor Quality,285881.22
+1472,16779,Missing Accessories,173579.55
+1473,9639,Customer Changed Mind,17632.66
+1474,28788,Missing Accessories,392909.41
+1475,29750,Wrong Item Delivered,508903.52
+1476,19514,Customer Changed Mind,56784.65
+1477,21601,Poor Quality,116844.85
+1478,11151,Wrong Item Delivered,368914.05
+1479,8355,Late Delivery,290812.73
+1480,15861,Customer Changed Mind,191610.52
+1481,21344,Defective Product,228979.06
+1482,16758,Damaged Product,96812.37
+1483,12781,Customer Changed Mind,147709.46
+1484,28879,Defective Product,9231.42
+1485,24434,Damaged Product,109626.9
+1486,25504,Missing Accessories,35870.29
+1487,2069,Poor Quality,147394.62
+1488,8639,Damaged Product,239918.48
+1489,24892,Missing Accessories,392203.28
+1490,17614,Late Delivery,51885.77
+1491,16263,Late Delivery,335641.62
+1492,5018,Defective Product,100569.72
+1493,12678,Poor Quality,388552.0
+1494,11391,Damaged Product,198947.37
+1495,6537,Wrong Item Delivered,45537.24
+1496,27733,Defective Product,41556.24
+1497,20178,Damaged Product,40601.69
+1498,15426,Wrong Item Delivered,103086.68
+1499,10916,Missing Accessories,99641.95
+1500,25994,Late Delivery,63653.2
+1501,9437,Late Delivery,35942.75
+1502,17890,Defective Product,135053.63
+1503,16401,Late Delivery,89505.27
+1504,19945,Wrong Item Delivered,83332.98
+1505,2457,Late Delivery,328794.61
+1506,28133,Late Delivery,35115.07
+1507,21649,Defective Product,476336.28
+1508,554,Wrong Item Delivered,127481.85
+1509,22607,Damaged Product,248144.4
+1510,12460,Defective Product,53690.88
+1511,13903,Wrong Item Delivered,200347.09
+1512,17846,Defective Product,275101.85
+1513,27697,Damaged Product,101182.6
+1514,19745,Missing Accessories,342523.44
+1515,7432,Wrong Item Delivered,28049.04
+1516,9577,Poor Quality,86810.49
+1517,24070,Poor Quality,54883.48
+1518,2921,Late Delivery,114983.44
+1519,17021,Damaged Product,13546.9
+1520,5074,Damaged Product,54167.53
+1521,8912,Defective Product,24127.82
+1522,18491,Defective Product,66773.58
+1523,9842,Defective Product,241425.53
+1524,3554,Poor Quality,73663.48
+1525,22852,Missing Accessories,14998.81
+1526,19304,Defective Product,124806.95
+1527,14821,Poor Quality,270722.34
+1528,9415,Defective Product,173502.88
+1529,9020,Wrong Item Delivered,273069.63
+1530,21778,Defective Product,301253.72
+1531,3836,Wrong Item Delivered,29086.8
+1532,3351,Defective Product,19539.98
+1533,11137,Defective Product,238027.78
+1534,22983,Defective Product,91582.54
+1535,14964,Poor Quality,251971.68
+1536,29588,Customer Changed Mind,32904.12
+1537,27629,Defective Product,40879.26
+1538,26488,Wrong Item Delivered,397074.9
+1539,16750,Customer Changed Mind,246661.84
+1540,14516,Customer Changed Mind,7980.55
+1541,16996,Customer Changed Mind,36759.41
+1542,10659,Missing Accessories,139487.96
+1543,7392,Defective Product,298950.08
+1544,44,Customer Changed Mind,254002.71
+1545,23520,Late Delivery,46733.71
+1546,19785,Missing Accessories,131328.94
+1547,21379,Wrong Item Delivered,115334.43
+1548,5671,Defective Product,189372.69
+1549,27872,Defective Product,21584.27
+1550,20704,Wrong Item Delivered,127374.91
+1551,9339,Late Delivery,34450.22
+1552,10189,Customer Changed Mind,170618.87
+1553,21314,Defective Product,74886.12
+1554,10855,Late Delivery,206414.84
+1555,6218,Wrong Item Delivered,202559.17
+1556,17814,Wrong Item Delivered,109235.69
+1557,26503,Late Delivery,224254.7
+1558,5683,Missing Accessories,47074.7
+1559,443,Poor Quality,426184.45
+1560,19622,Poor Quality,109819.97
+1561,13299,Wrong Item Delivered,231167.46
+1562,15398,Late Delivery,177721.79
+1563,22921,Missing Accessories,114804.42
+1564,27937,Missing Accessories,251423.57
+1565,5538,Wrong Item Delivered,142606.13
+1566,11654,Late Delivery,178304.85
+1567,9055,Customer Changed Mind,53991.7
+1568,25229,Late Delivery,133706.39
+1569,3193,Defective Product,467646.35
+1570,1202,Poor Quality,190100.69
+1571,15125,Poor Quality,51289.75
+1572,16589,Wrong Item Delivered,75155.86
+1573,18163,Defective Product,91836.54
+1574,9167,Damaged Product,234110.25
+1575,27951,Poor Quality,58431.82
+1576,10392,Defective Product,194480.68
+1577,29798,Missing Accessories,145392.45
+1578,2100,Late Delivery,96450.09
+1579,20733,Damaged Product,130518.16
+1580,23706,Wrong Item Delivered,85994.34
+1581,2681,Customer Changed Mind,199994.27
+1582,19915,Wrong Item Delivered,31224.96
+1583,15564,Defective Product,127492.08
+1584,13392,Poor Quality,150680.56
+1585,13727,Defective Product,446682.72
+1586,10423,Customer Changed Mind,89747.33
+1587,11402,Late Delivery,230102.82
+1588,24474,Poor Quality,77475.57
+1589,4553,Defective Product,22994.1
+1590,15956,Customer Changed Mind,137330.95
+1591,1177,Missing Accessories,102608.44
+1592,20751,Customer Changed Mind,190420.36
+1593,22805,Defective Product,279044.58
+1594,9536,Wrong Item Delivered,254304.4
+1595,15770,Poor Quality,124544.81
+1596,9732,Wrong Item Delivered,309004.36
+1597,11119,Late Delivery,342004.64
+1598,4183,Poor Quality,280420.2
+1599,20634,Late Delivery,187324.47
+1600,23342,Poor Quality,149893.05
+1601,26510,Late Delivery,89525.77
+1602,28902,Damaged Product,7394.02
+1603,13725,Missing Accessories,372210.57
+1604,5244,Defective Product,50338.59
+1605,3143,Poor Quality,104596.53
+1606,10733,Defective Product,120735.49
+1607,13944,Damaged Product,220551.23
+1608,12379,Late Delivery,287340.18
+1609,17332,Defective Product,76439.13
+1610,27019,Late Delivery,191235.95
+1611,2097,Poor Quality,33498.55
+1612,20948,Poor Quality,167963.92
+1613,11007,Poor Quality,58827.66
+1614,11459,Poor Quality,92094.31
+1615,7840,Missing Accessories,109211.48
+1616,15641,Defective Product,41755.89
+1617,8780,Poor Quality,99809.64
+1618,4003,Wrong Item Delivered,121530.89
+1619,2055,Defective Product,60566.21
+1620,8502,Poor Quality,46113.42
+1621,12256,Wrong Item Delivered,146820.83
+1622,18974,Late Delivery,206153.48
+1623,11504,Missing Accessories,47928.45
+1624,26308,Defective Product,176471.91
+1625,25427,Wrong Item Delivered,101800.4
+1626,8287,Late Delivery,150458.75
+1627,727,Customer Changed Mind,32223.69
+1628,18274,Missing Accessories,111396.15
+1629,13884,Damaged Product,40690.52
+1630,1735,Damaged Product,159673.43
+1631,352,Damaged Product,41340.54
+1632,18283,Missing Accessories,267034.3
+1633,17211,Missing Accessories,199880.69
+1634,28512,Missing Accessories,217150.29
+1635,19276,Late Delivery,190547.42
+1636,17262,Missing Accessories,106186.04
+1637,22381,Defective Product,18096.69
+1638,26255,Customer Changed Mind,526479.96
+1639,5627,Damaged Product,387856.38
+1640,26855,Damaged Product,55028.28
+1641,17594,Wrong Item Delivered,56423.24
+1642,5036,Customer Changed Mind,65624.1
+1643,6789,Damaged Product,298710.55
+1644,14947,Defective Product,425666.21
+1645,14376,Defective Product,47013.76
+1646,11093,Poor Quality,79335.26
+1647,27902,Late Delivery,54454.99
+1648,10967,Missing Accessories,35707.44
+1649,18884,Wrong Item Delivered,178345.41
+1650,29647,Customer Changed Mind,481848.45
+1651,21171,Wrong Item Delivered,129038.94
+1652,27729,Damaged Product,253775.97
+1653,383,Missing Accessories,205314.22
+1654,16771,Missing Accessories,86918.61
+1655,8475,Wrong Item Delivered,132887.55
+1656,7139,Wrong Item Delivered,106252.0
+1657,996,Customer Changed Mind,85733.29
+1658,8084,Poor Quality,107960.79
+1659,6933,Missing Accessories,181599.97
+1660,5098,Damaged Product,185634.07
+1661,27615,Wrong Item Delivered,154724.15
+1662,1722,Poor Quality,11360.34
+1663,2898,Wrong Item Delivered,25234.53
+1664,16602,Customer Changed Mind,208206.11
+1665,1297,Damaged Product,246459.89
+1666,22661,Customer Changed Mind,31681.17
+1667,20930,Customer Changed Mind,321450.25
+1668,10265,Late Delivery,63734.16
+1669,16098,Missing Accessories,293240.08
+1670,1645,Defective Product,85724.66
+1671,18867,Defective Product,180686.16
+1672,4487,Defective Product,328694.5
+1673,22990,Damaged Product,118169.24
+1674,28933,Missing Accessories,10933.4
+1675,13437,Customer Changed Mind,222014.89
+1676,5037,Missing Accessories,98874.57
+1677,8431,Wrong Item Delivered,135691.4
+1678,23479,Poor Quality,32145.37
+1679,20175,Wrong Item Delivered,13511.13
+1680,23370,Late Delivery,315639.08
+1681,3942,Damaged Product,52407.64
+1682,10517,Defective Product,81963.04
+1683,18899,Wrong Item Delivered,141155.69
+1684,11841,Wrong Item Delivered,181098.39
+1685,17926,Poor Quality,217424.66
+1686,21643,Defective Product,116347.87
+1687,4884,Late Delivery,107537.9
+1688,12651,Damaged Product,116756.46
+1689,4175,Wrong Item Delivered,256253.23
+1690,8615,Defective Product,35867.69
+1691,14886,Customer Changed Mind,210899.51
+1692,19694,Damaged Product,164490.82
+1693,25389,Customer Changed Mind,200406.3
+1694,15350,Late Delivery,317415.97
+1695,10996,Defective Product,73932.7
+1696,15163,Customer Changed Mind,164630.95
+1697,7436,Customer Changed Mind,286167.43
+1698,18458,Late Delivery,131079.5
+1699,1046,Poor Quality,316853.18
+1700,13231,Poor Quality,38225.41
+1701,12243,Damaged Product,14471.25
+1702,24417,Late Delivery,43577.8
+1703,26765,Poor Quality,243090.17
+1704,27186,Late Delivery,113534.28
+1705,4431,Defective Product,352181.48
+1706,22911,Missing Accessories,113773.28
+1707,15757,Customer Changed Mind,237556.6
+1708,27006,Late Delivery,223433.11
+1709,3532,Defective Product,299063.75
+1710,11351,Customer Changed Mind,211145.24
+1711,28620,Defective Product,14605.46
+1712,8594,Defective Product,320953.56
+1713,17896,Poor Quality,32805.15
+1714,18677,Wrong Item Delivered,38650.77
+1715,15103,Defective Product,173674.33
+1716,4158,Wrong Item Delivered,63699.77
+1717,13323,Missing Accessories,9950.63
+1718,29886,Late Delivery,154070.72
+1719,27802,Late Delivery,74018.3
+1720,20054,Poor Quality,45866.54
+1721,25114,Damaged Product,413584.82
+1722,8996,Poor Quality,535552.16
+1723,22541,Missing Accessories,71554.32
+1724,6398,Wrong Item Delivered,48003.31
+1725,5405,Missing Accessories,96395.67
+1726,8485,Wrong Item Delivered,245003.78
+1727,27954,Wrong Item Delivered,244839.12
+1728,29676,Wrong Item Delivered,29594.0
+1729,8314,Wrong Item Delivered,198161.93
+1730,19781,Damaged Product,231052.08
+1731,5183,Late Delivery,112095.17
+1732,12464,Poor Quality,63574.81
+1733,29924,Customer Changed Mind,42115.13
+1734,10772,Missing Accessories,181446.65
+1735,28659,Missing Accessories,289425.35
+1736,24665,Late Delivery,50392.0
+1737,15540,Poor Quality,58442.71
+1738,5486,Wrong Item Delivered,112544.47
+1739,25091,Customer Changed Mind,19204.97
+1740,27321,Damaged Product,219476.89
+1741,9780,Defective Product,158331.26
+1742,18041,Damaged Product,39547.0
+1743,22084,Late Delivery,151315.54
+1744,4189,Late Delivery,13177.28
+1745,29467,Poor Quality,81629.87
+1746,17910,Customer Changed Mind,179153.27
+1747,18447,Missing Accessories,262429.42
+1748,6673,Damaged Product,463366.12
+1749,15522,Poor Quality,239896.81
+1750,12636,Defective Product,39230.23
+1751,25478,Damaged Product,156400.19
+1752,2775,Defective Product,49614.05
+1753,5715,Poor Quality,94297.14
+1754,2050,Wrong Item Delivered,138892.75
+1755,27237,Missing Accessories,218164.06
+1756,24966,Customer Changed Mind,53020.78
+1757,25876,Damaged Product,47602.19
+1758,2550,Poor Quality,209882.55
+1759,8393,Damaged Product,311190.43
+1760,22548,Late Delivery,195690.02
+1761,13312,Damaged Product,468520.56
+1762,29189,Late Delivery,34693.19
+1763,1337,Wrong Item Delivered,55382.16
+1764,7226,Damaged Product,281203.5
+1765,26388,Damaged Product,147008.21
+1766,26737,Late Delivery,25011.62
+1767,12725,Late Delivery,293682.73
+1768,10424,Defective Product,156912.42
+1769,741,Missing Accessories,229516.66
+1770,25111,Customer Changed Mind,205766.96
+1771,24064,Missing Accessories,67877.74
+1772,20665,Defective Product,305906.04
+1773,12573,Defective Product,214124.56
+1774,4067,Customer Changed Mind,68231.71
+1775,12893,Missing Accessories,230428.08
+1776,14638,Wrong Item Delivered,137481.45
+1777,11916,Poor Quality,60266.06
+1778,20994,Customer Changed Mind,176987.36
+1779,19574,Wrong Item Delivered,308291.83
+1780,11440,Missing Accessories,51304.62
+1781,20639,Defective Product,97523.96
+1782,20902,Customer Changed Mind,156034.47
+1783,16487,Defective Product,31556.34
+1784,14055,Late Delivery,361267.98
+1785,20121,Wrong Item Delivered,228653.45
+1786,27011,Damaged Product,123524.91
+1787,10365,Wrong Item Delivered,97947.15
+1788,2922,Damaged Product,9575.25
+1789,5408,Defective Product,54224.65
+1790,14616,Defective Product,383565.78
+1791,23452,Damaged Product,130151.95
+1792,6296,Late Delivery,78273.48
+1793,5735,Customer Changed Mind,46345.66
+1794,15193,Poor Quality,274475.5
+1795,11554,Defective Product,218731.84
+1796,1912,Customer Changed Mind,47421.74
+1797,15566,Late Delivery,224414.06
+1798,5267,Customer Changed Mind,215513.1
+1799,15736,Customer Changed Mind,205018.32
+1800,1972,Customer Changed Mind,38383.41
+1801,6795,Missing Accessories,161800.19
+1802,8881,Missing Accessories,206464.67
+1803,419,Damaged Product,30054.4
+1804,2268,Late Delivery,92068.65
+1805,13954,Damaged Product,160791.59

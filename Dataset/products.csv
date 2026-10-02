@@ -1,0 +1,501 @@
+PRODUCT_ID,CATEGORY_ID,PRODUCT_NAME,BRAND,COST_PRICE,SELLING_PRICE
+1,3,Keyboard,Whirlpool,30615,38368
+2,12,Cricket Bat,Dell,23420,30822
+3,9,Study Table,Puma,8450,10063
+4,1,Mouse,Lenovo,43676,54584
+5,4,Keyboard,HP,20777,24417
+6,4,Office Chair,Boat,23241,29604
+7,7,LED TV,Whirlpool,30719,40118
+8,3,Monitor,LG,43002,53762
+9,1,Printer,LG,40002,46782
+10,4,Headphones,Prestige,11445,12173
+11,13,Printer,Havells,42298,48949
+12,13,Headphones,Bajaj,3937,14216
+13,12,Backpack,Lenovo,19495,31096
+14,9,Notebook,Asus,45183,51107
+15,8,Monitor,Adidas,26828,28142
+16,11,Headphones,Godrej,28972,33409
+17,13,Backpack,Puma,34157,42542
+18,3,Backpack,Lenovo,4315,15690
+19,3,Monitor,Apple,4077,8885
+20,13,Refrigerator,Bajaj,39517,43407
+21,10,Backpack,Asus,14685,25648
+22,6,Monitor,Philips,30364,30869
+23,4,Water Bottle,Boat,34924,37175
+24,1,Mixer Grinder,HP,26048,28052
+25,10,Football,Havells,43736,54577
+26,1,Keyboard,Apple,46429,54023
+27,13,Mouse,Nike,31555,32626
+28,3,Printer,Boat,6682,7621
+29,11,LED TV,Sony,6410,8725
+30,12,Smartphone,Havells,48552,55438
+31,7,Microwave,Prestige,31572,39253
+32,9,Backpack,Puma,13227,23463
+33,7,Office Chair,Sony,10024,13743
+34,15,Mixer Grinder,Puma,39682,44389
+35,14,Mouse,Nike,47074,48929
+36,1,Laptop,Puma,26094,30840
+37,13,Laptop,Havells,20453,21371
+38,5,Laptop,Sony,15702,22599
+39,4,Laptop,Sony,20028,30880
+40,14,Microwave,Prestige,38849,44926
+41,1,Tablet,Samsung,48223,51542
+42,12,Notebook,HP,40977,47051
+43,3,Laptop,Lenovo,46178,46530
+44,9,Mixer Grinder,Whirlpool,26474,29632
+45,12,Mouse,LG,29771,33272
+46,10,LED TV,Sony,38281,47585
+47,11,Printer,Godrej,30483,41153
+48,10,Monitor,Adidas,38798,47363
+49,3,Water Bottle,Nike,7793,17580
+50,1,Office Chair,Asus,26290,34100
+51,14,Smartphone,Prestige,6230,7667
+52,7,Printer,Philips,1809,11381
+53,2,Refrigerator,Dell,45656,47406
+54,9,Printer,Havells,37636,40344
+55,10,Washing Machine,Whirlpool,10113,13201
+56,12,Football,Lenovo,48280,50286
+57,2,Refrigerator,Nike,44633,52666
+58,12,Smartphone,Samsung,23325,27375
+59,4,Notebook,Sony,33701,35852
+60,3,Smartphone,Philips,31263,41900
+61,6,Mouse,Philips,33964,42086
+62,1,Backpack,Puma,44488,53082
+63,1,Cricket Bat,Dell,40143,49050
+64,12,Backpack,Nike,12545,13493
+65,8,Monitor,Nike,46035,46514
+66,6,Refrigerator,Dell,21536,23803
+67,5,Study Table,Boat,20485,32191
+68,6,Microwave,HP,6284,9149
+69,15,Office Chair,Sony,13080,25059
+70,2,Mouse,Lenovo,21150,31343
+71,5,Monitor,Prestige,10492,21712
+72,15,Cricket Bat,LG,1544,5195
+73,8,Smartphone,Havells,49170,59293
+74,8,Tablet,Philips,23469,23888
+75,1,Printer,Boat,28371,34921
+76,7,LED TV,Puma,12320,15978
+77,4,Mixer Grinder,Puma,19762,26620
+78,6,Headphones,Bajaj,2303,6963
+79,3,Office Chair,Sony,3938,15083
+80,12,Keyboard,Philips,23595,25856
+81,6,Cricket Bat,Nike,14516,25653
+82,7,Microwave,Apple,1908,9849
+83,5,Smartphone,Sony,33196,43271
+84,6,LED TV,Prestige,3221,14269
+85,10,Notebook,Whirlpool,41031,46059
+86,6,Printer,LG,21769,24646
+87,6,Water Bottle,Godrej,32827,39676
+88,4,Cricket Bat,Boat,33208,35107
+89,3,Tablet,Samsung,5547,9871
+90,10,Headphones,Lenovo,18842,27047
+91,7,Water Bottle,Puma,45808,46852
+92,8,Microwave,Sony,23054,34650
+93,9,Keyboard,Asus,19365,29687
+94,5,Office Chair,Apple,15797,22706
+95,1,Notebook,Dell,18157,19792
+96,14,Office Chair,Philips,18553,29140
+97,9,Notebook,Apple,18708,29256
+98,8,Refrigerator,LG,45355,55971
+99,2,Water Bottle,Boat,6448,14786
+100,9,Water Bottle,HP,6090,11941
+101,7,Mixer Grinder,Lenovo,33681,34630
+102,7,Office Chair,Nike,12131,21649
+103,13,Tablet,Prestige,45485,55663
+104,6,Office Chair,Samsung,603,5623
+105,8,Refrigerator,Boat,47552,57682
+106,13,Cricket Bat,HP,29853,38168
+107,8,Refrigerator,Whirlpool,9724,13384
+108,1,Monitor,Nike,2138,9008
+109,3,Football,LG,49920,54155
+110,7,Cricket Bat,Whirlpool,20770,25932
+111,7,Football,Dell,26001,35726
+112,9,Smartphone,Bajaj,37896,40485
+113,12,Cricket Bat,Godrej,4319,4953
+114,7,Laptop,Dell,25545,29471
+115,2,Mixer Grinder,Puma,15140,26418
+116,5,Water Bottle,Philips,34520,37486
+117,15,Washing Machine,Asus,40703,50067
+118,6,Tablet,Godrej,27221,32082
+119,4,Refrigerator,Havells,25864,26170
+120,1,Football,Godrej,42201,48607
+121,5,Football,Asus,29221,31782
+122,5,Mixer Grinder,Dell,1241,2795
+123,9,Keyboard,Puma,26647,30383
+124,1,Tablet,Bajaj,3098,14967
+125,13,Washing Machine,Samsung,45797,53476
+126,15,Mouse,Lenovo,23316,33288
+127,12,Refrigerator,Bajaj,16610,26318
+128,10,Microwave,Lenovo,19298,24764
+129,5,Refrigerator,Prestige,7200,10068
+130,9,Headphones,Nike,42096,46218
+131,6,Football,Prestige,10101,16897
+132,3,Keyboard,Nike,26908,32986
+133,10,Refrigerator,Philips,15554,20508
+134,5,Backpack,Puma,37292,48004
+135,10,Mixer Grinder,Whirlpool,22690,23491
+136,9,Refrigerator,Bajaj,28416,36612
+137,7,Cricket Bat,Whirlpool,47828,48584
+138,12,Water Bottle,Puma,9763,15440
+139,6,Monitor,LG,25075,32351
+140,14,Monitor,Sony,48987,51335
+141,8,Keyboard,Apple,10714,14296
+142,9,Football,Prestige,47180,56502
+143,12,Refrigerator,Sony,42358,52362
+144,7,Football,Prestige,7027,12815
+145,8,Refrigerator,Havells,49995,59768
+146,12,Backpack,HP,37756,38799
+147,2,Backpack,Sony,2122,9859
+148,12,Backpack,Apple,21295,21858
+149,11,Monitor,Bajaj,36207,45585
+150,13,Washing Machine,Godrej,6924,8727
+151,12,Refrigerator,Samsung,36537,38510
+152,10,Study Table,LG,22768,23433
+153,12,Office Chair,Apple,3787,15640
+154,12,Notebook,Havells,42654,53590
+155,6,Tablet,Apple,17499,25987
+156,15,Football,Puma,48227,55994
+157,12,Smartphone,Havells,15755,22452
+158,7,Laptop,Dell,49827,59397
+159,5,Mixer Grinder,Samsung,12631,24225
+160,3,Backpack,Boat,27739,30685
+161,5,Printer,Bajaj,14870,16340
+162,1,Monitor,Adidas,36558,42320
+163,10,Monitor,Whirlpool,42744,46184
+164,10,Washing Machine,Whirlpool,22194,23351
+165,1,Water Bottle,Lenovo,44905,53442
+166,4,Refrigerator,Havells,49648,55519
+167,3,Study Table,Whirlpool,4599,13917
+168,2,Microwave,Bajaj,867,1725
+169,5,Cricket Bat,Bajaj,37085,48004
+170,9,Smartphone,LG,11333,19117
+171,2,Washing Machine,Havells,37923,38498
+172,15,Cricket Bat,Philips,2106,7328
+173,12,Smartphone,Asus,12878,23506
+174,4,Study Table,Dell,47485,51289
+175,2,Smartphone,Philips,30659,41216
+176,14,Study Table,Prestige,10834,18173
+177,12,Backpack,Puma,28345,36606
+178,11,LED TV,Asus,32982,34364
+179,7,Notebook,Boat,12923,14917
+180,2,Laptop,Lenovo,45409,54236
+181,14,Water Bottle,Whirlpool,12997,14078
+182,15,Cricket Bat,Apple,32858,43412
+183,5,Washing Machine,Sony,23611,33629
+184,2,Keyboard,Philips,2916,8370
+185,15,Football,Puma,1500,11132
+186,2,Study Table,Samsung,43914,55349
+187,11,Notebook,Sony,25275,28806
+188,11,Water Bottle,Dell,18982,21747
+189,12,Study Table,Nike,40112,52020
+190,1,Monitor,Lenovo,37192,47977
+191,14,Office Chair,LG,40242,40775
+192,11,Headphones,Apple,45480,50637
+193,5,Laptop,LG,26086,31545
+194,5,Backpack,Puma,23537,28616
+195,8,Washing Machine,HP,26754,37580
+196,9,Microwave,Godrej,5784,10148
+197,8,Laptop,LG,42841,44790
+198,11,Keyboard,Sony,9802,18991
+199,1,Water Bottle,Whirlpool,16012,18014
+200,9,Notebook,Adidas,31752,41981
+201,11,Printer,Whirlpool,48377,56839
+202,7,Laptop,Boat,34975,36835
+203,5,Tablet,Asus,27460,30496
+204,7,Microwave,LG,12868,17098
+205,10,Refrigerator,LG,12950,18567
+206,6,Monitor,Prestige,28126,35862
+207,8,Keyboard,Boat,27034,34131
+208,8,Mouse,Godrej,4764,10728
+209,8,Printer,Apple,33070,43970
+210,9,LED TV,Bajaj,36084,45251
+211,10,Keyboard,Bajaj,47485,47888
+212,9,Notebook,Sony,40253,49196
+213,3,Refrigerator,Prestige,1184,8769
+214,15,Microwave,Nike,39374,46879
+215,5,LED TV,HP,38830,44105
+216,12,Cricket Bat,Sony,39732,49606
+217,4,Mixer Grinder,HP,46906,48912
+218,2,Study Table,LG,9206,18605
+219,13,Monitor,Puma,42199,47286
+220,5,Notebook,Bajaj,3849,7076
+221,12,Notebook,Nike,5447,15651
+222,9,Cricket Bat,Asus,49637,56663
+223,2,Headphones,Havells,35444,40216
+224,7,Backpack,Philips,30556,39101
+225,2,Laptop,Puma,1260,4340
+226,11,Headphones,Samsung,16490,27303
+227,6,Microwave,Dell,13156,23775
+228,13,Keyboard,Prestige,4000,8789
+229,8,Refrigerator,LG,38584,42845
+230,2,Mouse,Boat,13987,15550
+231,5,Study Table,LG,11651,15979
+232,1,Monitor,Boat,41391,43099
+233,8,Refrigerator,Havells,27332,28528
+234,13,Monitor,Nike,12809,22858
+235,1,Smartphone,Prestige,31949,33010
+236,8,Football,Apple,39749,43565
+237,3,Mouse,Boat,11110,20420
+238,13,Tablet,Dell,20616,23338
+239,9,Mixer Grinder,Lenovo,21772,29334
+240,13,Cricket Bat,Nike,37170,41275
+241,15,Mixer Grinder,Sony,27496,38590
+242,12,Office Chair,Lenovo,33353,44873
+243,4,Cricket Bat,LG,3824,9824
+244,4,Smartphone,Apple,34231,37990
+245,15,LED TV,Boat,7207,14652
+246,15,Cricket Bat,Puma,12381,13824
+247,5,Smartphone,Adidas,44555,48122
+248,13,Monitor,Prestige,43361,47050
+249,1,Mixer Grinder,Philips,43743,54118
+250,1,LED TV,Lenovo,34577,39850
+251,12,Office Chair,HP,3466,10652
+252,8,LED TV,Havells,22172,27288
+253,6,Refrigerator,Adidas,2603,13150
+254,7,Study Table,Samsung,42784,51476
+255,3,Study Table,Adidas,29338,35544
+256,3,Monitor,HP,29281,38815
+257,13,Printer,Puma,25573,30634
+258,6,Printer,Apple,37526,39261
+259,10,Refrigerator,Dell,9619,21392
+260,7,Office Chair,Nike,27001,30527
+261,1,Monitor,Dell,12947,17455
+262,6,Cricket Bat,Adidas,38428,46586
+263,2,Monitor,Puma,37768,48173
+264,5,Notebook,Adidas,49141,60722
+265,2,Headphones,Samsung,18476,19880
+266,1,Microwave,Nike,3753,14971
+267,7,Mouse,Bajaj,18840,30288
+268,1,Mouse,Adidas,4396,13202
+269,12,Football,Adidas,38218,47725
+270,13,Football,Lenovo,9733,17052
+271,5,Headphones,Dell,20777,21720
+272,8,Refrigerator,Sony,8388,14386
+273,1,Headphones,Philips,24792,35461
+274,14,Backpack,LG,47689,50973
+275,7,Laptop,Apple,17735,25092
+276,1,Water Bottle,Apple,18169,24794
+277,4,Smartphone,Whirlpool,45573,55098
+278,11,Backpack,Dell,24351,27461
+279,4,Cricket Bat,Puma,3827,14697
+280,10,Tablet,Sony,40345,50688
+281,4,Mixer Grinder,Philips,31947,36621
+282,13,Microwave,Nike,3941,7928
+283,5,Headphones,Asus,44604,50077
+284,9,Football,Godrej,29518,30675
+285,8,Microwave,LG,24527,30623
+286,12,Mouse,Adidas,31167,40844
+287,8,Smartphone,HP,21376,25886
+288,5,Smartphone,Apple,10112,16077
+289,2,Office Chair,Whirlpool,44523,52029
+290,3,Printer,Bajaj,33602,35767
+291,11,Smartphone,LG,41151,50756
+292,9,Office Chair,Havells,46584,50297
+293,8,Keyboard,Sony,11682,19370
+294,13,LED TV,Adidas,44874,53456
+295,5,Microwave,Boat,23216,24259
+296,6,Laptop,Boat,39648,44296
+297,5,LED TV,Boat,27420,30167
+298,14,Headphones,Apple,3243,10299
+299,5,Study Table,Havells,1250,4273
+300,10,Notebook,Bajaj,47044,57811
+301,10,Microwave,Godrej,3805,5885
+302,3,Notebook,Havells,19556,23249
+303,1,Monitor,Nike,49598,50823
+304,12,Monitor,HP,14578,15802
+305,5,Microwave,Godrej,5797,13229
+306,2,Keyboard,HP,11266,20689
+307,5,Laptop,Sony,13229,19550
+308,8,Washing Machine,Lenovo,45811,56590
+309,5,LED TV,Dell,27024,37350
+310,7,Smartphone,Dell,26045,30618
+311,5,Notebook,Dell,1016,4095
+312,9,Water Bottle,Philips,9983,15175
+313,12,Refrigerator,Prestige,13541,24268
+314,15,Monitor,Puma,25292,26624
+315,10,Office Chair,Godrej,3983,7208
+316,1,Keyboard,Asus,43187,47459
+317,11,Study Table,HP,15631,23344
+318,4,Monitor,Godrej,22341,28773
+319,14,Cricket Bat,Whirlpool,30648,41471
+320,1,Printer,Sony,39412,40377
+321,5,Tablet,Dell,24212,29437
+322,3,Smartphone,Philips,29234,39843
+323,12,Printer,Adidas,39820,51367
+324,4,Backpack,Bajaj,4762,9877
+325,12,Printer,Nike,44499,45509
+326,9,Office Chair,Godrej,18694,27271
+327,9,Football,Sony,23918,24422
+328,10,Monitor,Samsung,41215,47330
+329,5,Monitor,Boat,45972,49361
+330,11,Notebook,Asus,16578,23841
+331,12,Cricket Bat,Prestige,25834,28090
+332,7,Office Chair,Philips,7035,18573
+333,4,Microwave,Adidas,40180,46559
+334,13,Laptop,Boat,38308,43773
+335,5,Mouse,Whirlpool,45704,51093
+336,4,Monitor,Bajaj,48262,59630
+337,4,Smartphone,Boat,26314,29799
+338,12,Notebook,Sony,19202,27735
+339,3,Monitor,Adidas,12264,20971
+340,15,Washing Machine,Boat,47930,54372
+341,2,Headphones,Dell,37096,45294
+342,1,Water Bottle,Adidas,42738,50610
+343,13,Smartphone,Whirlpool,48112,57150
+344,9,Keyboard,Nike,22281,23769
+345,12,Office Chair,Philips,37613,48899
+346,11,Washing Machine,Nike,44035,53643
+347,15,Mixer Grinder,Whirlpool,8455,15845
+348,6,Cricket Bat,Whirlpool,29324,30147
+349,2,Mouse,Havells,45640,51294
+350,11,Football,Apple,22992,31997
+351,6,Refrigerator,Lenovo,18088,18489
+352,1,Smartphone,Asus,35846,37170
+353,4,Printer,Dell,42947,52922
+354,4,Water Bottle,Asus,28702,38067
+355,1,LED TV,Prestige,47946,55334
+356,7,Monitor,Boat,10014,15545
+357,11,Smartphone,Lenovo,3239,14771
+358,9,Water Bottle,Philips,8932,15556
+359,15,Keyboard,Whirlpool,13536,14177
+360,7,Tablet,Apple,48713,55989
+361,1,Monitor,Bajaj,23726,29152
+362,6,Backpack,LG,26585,38299
+363,9,Smartphone,Dell,8472,18493
+364,2,Mouse,LG,13157,23123
+365,5,Smartphone,LG,27752,32082
+366,5,Office Chair,Samsung,33940,38387
+367,7,Microwave,Nike,46075,51609
+368,15,Mixer Grinder,Adidas,23946,34499
+369,5,LED TV,Dell,22767,25931
+370,5,Washing Machine,Whirlpool,19763,29630
+371,15,Tablet,Philips,45572,50674
+372,7,Printer,Godrej,19127,29524
+373,13,Office Chair,Sony,40528,47054
+374,4,Refrigerator,Samsung,29311,32786
+375,2,Headphones,LG,22765,34388
+376,5,Refrigerator,Asus,31094,32421
+377,8,Tablet,HP,4147,14971
+378,14,Mouse,Godrej,23657,28732
+379,7,Monitor,Havells,21236,22380
+380,3,Keyboard,Sony,8862,17730
+381,11,Tablet,Lenovo,38181,43972
+382,1,Refrigerator,Philips,11142,14727
+383,1,Keyboard,Bajaj,46829,54938
+384,2,Water Bottle,Philips,37568,40056
+385,2,Laptop,Sony,6971,18380
+386,1,Study Table,Apple,18669,24732
+387,3,Cricket Bat,Havells,7377,18263
+388,3,Smartphone,Philips,35299,44508
+389,3,Office Chair,Lenovo,20513,25767
+390,7,Keyboard,Adidas,33207,43600
+391,1,Mixer Grinder,Nike,30885,39980
+392,14,Keyboard,Apple,46792,57960
+393,1,LED TV,Godrej,32834,41939
+394,10,Cricket Bat,Sony,34004,45257
+395,4,Water Bottle,Puma,6360,8876
+396,11,Notebook,Dell,42993,52174
+397,4,Monitor,Samsung,9829,10591
+398,8,Mouse,Dell,34976,40024
+399,8,Cricket Bat,Philips,30510,40929
+400,6,Water Bottle,Boat,47871,57629
+401,9,Mouse,HP,5182,16572
+402,14,Smartphone,Asus,14441,19076
+403,9,Refrigerator,Asus,42319,49958
+404,3,Monitor,Samsung,30540,39781
+405,14,Laptop,Prestige,26391,30962
+406,5,Study Table,Dell,11435,19264
+407,13,Laptop,Lenovo,4912,11230
+408,11,Football,Apple,6166,16131
+409,11,Mixer Grinder,Nike,34389,35640
+410,3,Notebook,Whirlpool,36407,43009
+411,8,Smartphone,Lenovo,523,5929
+412,6,Printer,Apple,30551,30863
+413,7,Washing Machine,Bajaj,5327,10992
+414,10,Smartphone,Godrej,6817,14759
+415,8,LED TV,Godrej,38418,46400
+416,2,Headphones,Bajaj,7747,16251
+417,12,Microwave,Prestige,2487,9818
+418,9,Printer,Philips,26827,27437
+419,4,Headphones,Sony,10610,14540
+420,12,Notebook,Asus,36266,46962
+421,9,Office Chair,Samsung,14550,25169
+422,10,Headphones,HP,30489,41721
+423,5,Cricket Bat,Boat,40267,45965
+424,7,Water Bottle,Adidas,7939,9712
+425,6,Printer,Godrej,14563,18913
+426,3,Smartphone,Apple,30451,38306
+427,12,Smartphone,HP,13457,23873
+428,5,Study Table,HP,46056,50704
+429,8,Football,Havells,21688,32643
+430,6,LED TV,Lenovo,18026,22603
+431,3,LED TV,HP,3615,9826
+432,3,Study Table,Asus,15599,25429
+433,2,Water Bottle,Philips,24480,27955
+434,7,Smartphone,HP,9726,20596
+435,11,Printer,Godrej,14452,15543
+436,7,Washing Machine,Puma,33349,43170
+437,7,Water Bottle,Lenovo,14212,25371
+438,4,Headphones,Godrej,14242,22994
+439,14,Notebook,Philips,38075,43616
+440,5,Study Table,Asus,40610,42311
+441,10,Backpack,Bajaj,39234,42629
+442,10,Smartphone,Puma,22133,32199
+443,13,Office Chair,Boat,46616,56346
+444,5,Mixer Grinder,Nike,18827,19190
+445,5,LED TV,Asus,18182,25686
+446,6,Study Table,Philips,28444,34270
+447,12,Backpack,Whirlpool,29732,39571
+448,2,Monitor,Samsung,36552,48191
+449,11,Office Chair,Havells,18252,22027
+450,11,Microwave,LG,14948,18176
+451,9,Smartphone,Philips,43469,55303
+452,4,Printer,Samsung,13783,23896
+453,10,Mixer Grinder,Godrej,34154,44209
+454,2,Headphones,Philips,31661,34384
+455,15,Washing Machine,Bajaj,26584,36088
+456,12,Refrigerator,Adidas,9909,17854
+457,8,Backpack,Godrej,28962,33254
+458,15,Notebook,Philips,25255,28181
+459,4,Microwave,Nike,48790,56364
+460,4,LED TV,Prestige,22452,31869
+461,6,Keyboard,Puma,971,3247
+462,14,Headphones,Bajaj,19399,28075
+463,1,Football,Puma,3739,9824
+464,10,Notebook,Nike,13849,15884
+465,12,Keyboard,HP,8177,12683
+466,9,Backpack,Nike,958,3787
+467,4,Washing Machine,Puma,46331,57393
+468,9,Mixer Grinder,Samsung,9520,18628
+469,15,Printer,Philips,39048,47928
+470,1,Water Bottle,LG,32175,41495
+471,4,Refrigerator,LG,47502,51476
+472,4,Microwave,HP,19142,22303
+473,13,LED TV,Havells,40457,41587
+474,6,Cricket Bat,Prestige,41133,50871
+475,11,Water Bottle,HP,32081,43092
+476,11,Printer,Lenovo,21632,26243
+477,5,LED TV,Samsung,45713,47982
+478,3,Headphones,Samsung,16614,28202
+479,8,Monitor,Puma,28794,33130
+480,13,Microwave,Prestige,29558,40302
+481,6,LED TV,Apple,27203,36543
+482,2,Keyboard,Lenovo,2906,3377
+483,6,Smartphone,Apple,39849,48783
+484,1,Backpack,Whirlpool,11160,11713
+485,12,Monitor,LG,34507,38900
+486,5,Water Bottle,Adidas,42923,46369
+487,1,Laptop,Lenovo,30915,35678
+488,5,Monitor,Asus,9232,18062
+489,13,Smartphone,Asus,18636,24188
+490,8,Smartphone,Philips,44828,53156
+491,7,Washing Machine,Philips,8196,19613
+492,4,Cricket Bat,Whirlpool,35733,39263
+493,1,Water Bottle,Lenovo,17866,27067
+494,12,Water Bottle,Prestige,9006,18111
+495,7,Mouse,Nike,38826,42482
+496,1,Monitor,Whirlpool,31947,39624
+497,15,LED TV,Apple,31036,37917
+498,4,Refrigerator,Dell,13254,17639
+499,8,Refrigerator,LG,15135,16702
+500,2,Football,Nike,18174,26093

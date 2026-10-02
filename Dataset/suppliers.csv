@@ -1,0 +1,251 @@
+SUPPLIER_ID,SUPPLIER_NAME,CITY,STATE,RATING
+1,Sharaf Group,Coimbatore,Tamil Nadu,1
+2,Ramaswamy Ltd,Mysuru,Karnataka,1
+3,Sant-Tripathi,Ahmedabad,Gujarat,2
+4,Walia Inc,Chennai,Tamil Nadu,5
+5,Shah LLC,Jaipur,Rajasthan,4
+6,Jayaraman LLC,Pune,Maharashtra,1
+7,More and Sons,Chennai,Tamil Nadu,4
+8,Dhaliwal and Sons,Salem,Tamil Nadu,2
+9,Pingle-Rout,Ahmedabad,Gujarat,5
+10,Rau Group,Mysuru,Karnataka,3
+11,"Majumdar, Prashad and Dyal",Delhi,Delhi,3
+12,"Dash, Gole and Ahluwalia",Jaipur,Rajasthan,1
+13,"Randhawa, Divan and Gaba",Chennai,Tamil Nadu,2
+14,Ganesh Inc,Delhi,Delhi,1
+15,"Khalsa, Sem and Ram",Mysuru,Karnataka,4
+16,Ben PLC,Ahmedabad,Gujarat,1
+17,Tripathi Ltd,Kolkata,West Bengal,2
+18,Nigam-Wable,Salem,Tamil Nadu,2
+19,"Oza, Patil and Sule",Mumbai,Maharashtra,4
+20,Bhatia-Chaudhuri,Hyderabad,Telangana,2
+21,Saraf-Krishnan,Bengaluru,Karnataka,2
+22,Sarkar PLC,Kolkata,West Bengal,1
+23,Kumar-Din,Jaipur,Rajasthan,1
+24,Narain and Sons,Chennai,Tamil Nadu,5
+25,Maharaj Ltd,Pune,Maharashtra,5
+26,"Dara, Bedi and Kanda",Ahmedabad,Gujarat,2
+27,Vohra-Kalita,Coimbatore,Tamil Nadu,5
+28,"Parikh, Nath and Shah",Bengaluru,Karnataka,3
+29,Comar Group,Jaipur,Rajasthan,2
+30,Vohra Inc,Mumbai,Maharashtra,4
+31,"Kadakia, Bassi and Ramakrishnan",Chennai,Tamil Nadu,1
+32,"Chawla, Rattan and Doshi",Pune,Maharashtra,1
+33,"Sood, Barad and Saxena",Salem,Tamil Nadu,2
+34,Bawa Group,Trichy,Tamil Nadu,4
+35,Hora and Sons,Ahmedabad,Gujarat,5
+36,Chandra Inc,Bengaluru,Karnataka,1
+37,Kakar Ltd,Mysuru,Karnataka,5
+38,Das LLC,Delhi,Delhi,3
+39,Ratti Inc,Delhi,Delhi,5
+40,"Sandhu, Som and Seshadri",Hyderabad,Telangana,3
+41,Sha-Viswanathan,Trichy,Tamil Nadu,1
+42,Krishnamurthy Group,Hyderabad,Telangana,1
+43,Joshi Group,Ahmedabad,Gujarat,3
+44,Luthra Group,Ahmedabad,Gujarat,2
+45,Chandran-Halder,Jaipur,Rajasthan,1
+46,Batta Group,Madurai,Tamil Nadu,1
+47,Agate-Madan,Mumbai,Maharashtra,3
+48,Barad-Bal,Trichy,Tamil Nadu,1
+49,"Menon, Kata and Rau",Jaipur,Rajasthan,2
+50,Buch and Sons,Salem,Tamil Nadu,2
+51,Bajaj-Chadha,Madurai,Tamil Nadu,3
+52,"Pandit, Naik and Sawhney",Jaipur,Rajasthan,3
+53,Gour Inc,Bengaluru,Karnataka,2
+54,Pandey PLC,Bengaluru,Karnataka,3
+55,Dutt Ltd,Coimbatore,Tamil Nadu,3
+56,Arya Ltd,Coimbatore,Tamil Nadu,4
+57,Tripathi-Randhawa,Bengaluru,Karnataka,3
+58,Rai Group,Kochi,Kerala,4
+59,"Sekhon, Hayre and Kala",Coimbatore,Tamil Nadu,4
+60,Madan Inc,Chennai,Tamil Nadu,5
+61,"Shankar, Deshpande and Sarkar",Coimbatore,Tamil Nadu,3
+62,"Thaman, Choudhry and Mitra",Hyderabad,Telangana,5
+63,Choudhry PLC,Pune,Maharashtra,4
+64,"Kapoor, Batta and Ramaswamy",Hyderabad,Telangana,1
+65,Sani-Panchal,Ahmedabad,Gujarat,5
+66,Boase Inc,Hyderabad,Telangana,2
+67,Saha-Bahri,Hyderabad,Telangana,3
+68,"Dubey, Srivastava and Cherian",Mysuru,Karnataka,2
+69,"Chakrabarti, Memon and Chandran",Delhi,Delhi,5
+70,"Din, Dey and Din",Salem,Tamil Nadu,5
+71,Parmar Ltd,Kochi,Kerala,1
+72,"Raghavan, Chawla and Sundaram",Ahmedabad,Gujarat,5
+73,D’Alia-Sodhi,Mysuru,Karnataka,3
+74,Karan-Pall,Coimbatore,Tamil Nadu,3
+75,Banerjee Inc,Kolkata,West Bengal,1
+76,Toor Inc,Bengaluru,Karnataka,5
+77,"Chakraborty, Dass and Singh",Jaipur,Rajasthan,5
+78,"Ben, Sridhar and Palla",Pune,Maharashtra,5
+79,"Sood, Jani and Tailor",Bengaluru,Karnataka,5
+80,Toor PLC,Mumbai,Maharashtra,1
+81,Balan-Vohra,Trichy,Tamil Nadu,4
+82,"Chhabra, Gour and Baral",Hyderabad,Telangana,4
+83,"Kaul, Sheth and Apte",Pune,Maharashtra,2
+84,Kapoor LLC,Jaipur,Rajasthan,3
+85,Dar-Mital,Salem,Tamil Nadu,5
+86,Mohan LLC,Mumbai,Maharashtra,4
+87,"Sarma, Handa and Nanda",Ahmedabad,Gujarat,5
+88,Dugar LLC,Kolkata,West Bengal,2
+89,"Dube, Handa and Sampath",Mysuru,Karnataka,2
+90,Chahal LLC,Bengaluru,Karnataka,3
+91,"Jani, Murthy and Loyal",Trichy,Tamil Nadu,2
+92,Choudhry Group,Chennai,Tamil Nadu,5
+93,Jayaraman PLC,Mysuru,Karnataka,1
+94,Sodhi Ltd,Mumbai,Maharashtra,1
+95,"Basak, Sathe and Palla",Jaipur,Rajasthan,2
+96,Chacko Group,Madurai,Tamil Nadu,1
+97,Sandal Group,Delhi,Delhi,4
+98,Hayer Group,Kochi,Kerala,4
+99,Jayaraman LLC,Mumbai,Maharashtra,5
+100,Kalla-Memon,Hyderabad,Telangana,3
+101,Ramanathan-Lad,Hyderabad,Telangana,3
+102,Bala-Lata,Delhi,Delhi,2
+103,Venkataraman and Sons,Kolkata,West Bengal,3
+104,Sagar Inc,Coimbatore,Tamil Nadu,3
+105,"Pandey, Dar and Gara",Pune,Maharashtra,3
+106,"Sodhi, Prabhakar and Kala",Bengaluru,Karnataka,4
+107,"Vasa, Khare and Raval",Jaipur,Rajasthan,1
+108,Shukla LLC,Jaipur,Rajasthan,1
+109,Lanka Group,Mysuru,Karnataka,4
+110,"Bawa, Borde and Parekh",Bengaluru,Karnataka,1
+111,Kuruvilla PLC,Delhi,Delhi,1
+112,Mani-Walla,Delhi,Delhi,5
+113,Patla-Nair,Bengaluru,Karnataka,3
+114,Date Ltd,Madurai,Tamil Nadu,3
+115,Oak Group,Mumbai,Maharashtra,1
+116,Rege-Koshy,Pune,Maharashtra,5
+117,Chatterjee-Wali,Jaipur,Rajasthan,4
+118,Goda Inc,Mumbai,Maharashtra,5
+119,Buch Inc,Madurai,Tamil Nadu,2
+120,"Mammen, Subramanian and Kanda",Madurai,Tamil Nadu,2
+121,Ray-Bath,Delhi,Delhi,5
+122,"Mahajan, Soni and Padmanabhan",Trichy,Tamil Nadu,5
+123,"Oza, Bora and Upadhyay",Jaipur,Rajasthan,4
+124,Dutt-Prasad,Coimbatore,Tamil Nadu,4
+125,Kaur-Raval,Kochi,Kerala,3
+126,Baral-Agrawal,Trichy,Tamil Nadu,4
+127,Bumb-Wason,Chennai,Tamil Nadu,1
+128,"Chaudhary, Majumdar and Sampath",Kochi,Kerala,2
+129,Walia-Mall,Coimbatore,Tamil Nadu,3
+130,"Basak, Tandon and Mukhopadhyay",Coimbatore,Tamil Nadu,1
+131,Chadha Inc,Ahmedabad,Gujarat,1
+132,Joshi-Wagle,Jaipur,Rajasthan,2
+133,Nigam PLC,Chennai,Tamil Nadu,4
+134,"Dugal, Ravi and Toor",Kolkata,West Bengal,2
+135,Rana LLC,Mysuru,Karnataka,3
+136,Goel-Saraf,Trichy,Tamil Nadu,5
+137,Buch Group,Hyderabad,Telangana,3
+138,Agarwal-Mani,Kochi,Kerala,4
+139,Andra-Seshadri,Hyderabad,Telangana,3
+140,"Mani, Hora and Sem",Chennai,Tamil Nadu,5
+141,Wadhwa-Dass,Pune,Maharashtra,3
+142,Dhaliwal-Jha,Pune,Maharashtra,5
+143,"Mangat, Ramachandran and Andra",Trichy,Tamil Nadu,1
+144,Rattan Inc,Hyderabad,Telangana,2
+145,"Kibe, Dhar and Khatri",Mysuru,Karnataka,4
+146,Ghose-Rout,Ahmedabad,Gujarat,1
+147,Minhas-Vohra,Ahmedabad,Gujarat,2
+148,Rajagopalan-Ramachandran,Bengaluru,Karnataka,2
+149,"Som, D’Alia and Dey",Chennai,Tamil Nadu,2
+150,Uppal Ltd,Mumbai,Maharashtra,2
+151,Bahri PLC,Kochi,Kerala,1
+152,Ram-Raja,Jaipur,Rajasthan,5
+153,Bahri Inc,Trichy,Tamil Nadu,4
+154,Kapoor Ltd,Ahmedabad,Gujarat,5
+155,Loke-Mukherjee,Salem,Tamil Nadu,3
+156,"Gaba, Sridhar and Peri",Trichy,Tamil Nadu,5
+157,"Pall, Palla and Reddy",Delhi,Delhi,3
+158,Borah-Sami,Trichy,Tamil Nadu,3
+159,Ram Inc,Delhi,Delhi,1
+160,Bandi-Pradhan,Bengaluru,Karnataka,1
+161,"Srinivasan, Sabharwal and Kumar",Coimbatore,Tamil Nadu,3
+162,Devi-Talwar,Ahmedabad,Gujarat,2
+163,"Parmer, Manne and Apte",Salem,Tamil Nadu,1
+164,Raman Inc,Mysuru,Karnataka,2
+165,"Rastogi, Kadakia and Edwin",Kolkata,West Bengal,1
+166,Bawa-Baral,Bengaluru,Karnataka,3
+167,"Chanda, Wable and Seshadri",Pune,Maharashtra,3
+168,Bal-Pall,Kochi,Kerala,4
+169,"Jaggi, Narula and Korpal",Trichy,Tamil Nadu,5
+170,"Merchant, Vasa and Mangat",Hyderabad,Telangana,3
+171,Nagi-Munshi,Jaipur,Rajasthan,2
+172,Chaudry-Dugar,Mysuru,Karnataka,3
+173,"Mukhopadhyay, Sathe and Tripathi",Jaipur,Rajasthan,4
+174,"Kaul, Kaur and Khurana",Ahmedabad,Gujarat,5
+175,Din-Ranganathan,Hyderabad,Telangana,3
+176,Sidhu-Dhar,Kolkata,West Bengal,1
+177,Pandit-Gera,Salem,Tamil Nadu,3
+178,"Kibe, Karpe and Mander",Ahmedabad,Gujarat,4
+179,Sundaram-Mistry,Pune,Maharashtra,1
+180,"Mand, Nigam and Balasubramanian",Coimbatore,Tamil Nadu,4
+181,Rajan-Sandhu,Bengaluru,Karnataka,3
+182,Mander-Varty,Jaipur,Rajasthan,4
+183,Bala-Vohra,Kochi,Kerala,5
+184,Dhaliwal-Narasimhan,Hyderabad,Telangana,1
+185,"Malhotra, Palla and Prasad",Mumbai,Maharashtra,5
+186,Dani-Goswami,Pune,Maharashtra,1
+187,"Dass, Dani and Bumb",Ahmedabad,Gujarat,4
+188,Dugal-Iyer,Hyderabad,Telangana,5
+189,Bhatia PLC,Delhi,Delhi,1
+190,"Subramanian, Sha and Mody",Chennai,Tamil Nadu,3
+191,Randhawa Inc,Pune,Maharashtra,5
+192,Tak-Sathe,Coimbatore,Tamil Nadu,3
+193,Manne-Bath,Trichy,Tamil Nadu,2
+194,"Divan, Boase and Bakshi",Salem,Tamil Nadu,5
+195,"Setty, Chacko and Nadig",Coimbatore,Tamil Nadu,3
+196,Banerjee Ltd,Mumbai,Maharashtra,2
+197,"Cheema, Vohra and Chaudhari",Delhi,Delhi,5
+198,Palan Group,Jaipur,Rajasthan,4
+199,"Chaudry, Manne and Aggarwal",Mysuru,Karnataka,4
+200,"Nori, Bains and Shan",Bengaluru,Karnataka,3
+201,Bedi Ltd,Kochi,Kerala,2
+202,Bhat-Zachariah,Delhi,Delhi,3
+203,"Nigam, Lad and Tata",Kolkata,West Bengal,4
+204,Ben Ltd,Pune,Maharashtra,2
+205,Sridhar-Krishnamurthy,Coimbatore,Tamil Nadu,2
+206,"Kaul, Ramakrishnan and Barad",Mysuru,Karnataka,1
+207,"Ranganathan, Anne and Chaudry",Delhi,Delhi,3
+208,Goyal-Rama,Madurai,Tamil Nadu,5
+209,Grewal Group,Chennai,Tamil Nadu,3
+210,Kakar LLC,Hyderabad,Telangana,3
+211,Bora and Sons,Salem,Tamil Nadu,4
+212,"Upadhyay, Bhargava and Nath",Hyderabad,Telangana,1
+213,Mani PLC,Hyderabad,Telangana,5
+214,"Handa, Chaudhari and Ratta",Kolkata,West Bengal,3
+215,"Narayanan, Ben and Padmanabhan",Bengaluru,Karnataka,1
+216,Banik-Thakkar,Trichy,Tamil Nadu,3
+217,"Murty, Kapadia and Oak",Ahmedabad,Gujarat,5
+218,"Mittal, Garg and Bhatnagar",Chennai,Tamil Nadu,2
+219,"Shroff, Puri and D’Alia",Pune,Maharashtra,2
+220,Bandi LLC,Chennai,Tamil Nadu,4
+221,"Wagle, Loyal and Venkataraman",Madurai,Tamil Nadu,4
+222,"Upadhyay, Gandhi and Shan",Hyderabad,Telangana,5
+223,Ganguly Inc,Ahmedabad,Gujarat,1
+224,"Badal, Pillai and Bakshi",Coimbatore,Tamil Nadu,3
+225,Wable-Swamy,Madurai,Tamil Nadu,3
+226,"Gulati, Bhasin and Patel",Chennai,Tamil Nadu,2
+227,Kala Group,Salem,Tamil Nadu,2
+228,Contractor Group,Mysuru,Karnataka,2
+229,"Bansal, Suresh and Dugar",Jaipur,Rajasthan,1
+230,Shere-Sawhney,Trichy,Tamil Nadu,2
+231,"Sandal, Sunder and Kumar",Jaipur,Rajasthan,3
+232,"Tandon, Bhatti and Krishnamurthy",Mysuru,Karnataka,1
+233,Raju-Gupta,Ahmedabad,Gujarat,3
+234,Zachariah and Sons,Delhi,Delhi,5
+235,Venkatesh Inc,Trichy,Tamil Nadu,2
+236,Halder-Batta,Trichy,Tamil Nadu,1
+237,"Rastogi, Tak and Varughese",Kochi,Kerala,2
+238,Lad LLC,Kochi,Kerala,2
+239,"Pau, Buch and Buch",Bengaluru,Karnataka,4
+240,Murty Ltd,Mysuru,Karnataka,4
+241,Subramaniam Inc,Kolkata,West Bengal,3
+242,"Sur, Mall and Char",Bengaluru,Karnataka,2
+243,"Saxena, Bahl and Radhakrishnan",Delhi,Delhi,2
+244,Wali Inc,Mumbai,Maharashtra,4
+245,"Manda, Dora and Chhabra",Coimbatore,Tamil Nadu,4
+246,"Sen, Korpal and Agate",Jaipur,Rajasthan,5
+247,"Chandra, Mutti and Atwal",Delhi,Delhi,4
+248,Goyal-Minhas,Delhi,Delhi,4
+249,"Keer, Barad and Loyal",Salem,Tamil Nadu,5
+250,Murty-Bahri,Ahmedabad,Gujarat,1

@@ -1,0 +1,26 @@
+WAREHOUSE_ID,WAREHOUSE_NAME,CITY,CAPACITY
+1,Kolkata Warehouse,Kolkata,39385
+2,Coimbatore Warehouse,Coimbatore,9347
+3,Madurai Warehouse,Madurai,22102
+4,Madurai Warehouse,Madurai,42400
+5,Kolkata Warehouse,Kolkata,16532
+6,Chennai Warehouse,Chennai,23483
+7,Delhi Warehouse,Delhi,34543
+8,Pune Warehouse,Pune,34981
+9,Coimbatore Warehouse,Coimbatore,47812
+10,Mysuru Warehouse,Mysuru,26072
+11,Mysuru Warehouse,Mysuru,12150
+12,Chennai Warehouse,Chennai,16110
+13,Mumbai Warehouse,Mumbai,40909
+14,Pune Warehouse,Pune,12281
+15,Salem Warehouse,Salem,35918
+16,Kolkata Warehouse,Kolkata,26344
+17,Kochi Warehouse,Kochi,46762
+18,Coimbatore Warehouse,Coimbatore,24901
+19,Mysuru Warehouse,Mysuru,21491
+20,Pune Warehouse,Pune,39674
+21,Madurai Warehouse,Madurai,30793
+22,Mumbai Warehouse,Mumbai,13445
+23,Madurai Warehouse,Madurai,20308
+24,Ahmedabad Warehouse,Ahmedabad,39327
+25,Trichy Warehouse,Trichy,35453
