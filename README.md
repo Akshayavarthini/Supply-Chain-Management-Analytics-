@@ -1,4 +1,4 @@
-# Supply Chain Management & Analytics using Snowflake
+# Supply Chain Management & Analytics 
 
 A comprehensive **Supply Chain Analytics project built using Snowflake and SQL** to analyze products, suppliers, customers, warehouses, inventory, orders, shipments, payments, and returns.
 
